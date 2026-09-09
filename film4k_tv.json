@@ -1,87 +1,79 @@
 {
-  "generated": "2026-09-03T13:41:14.889Z",
+  "generated": "2026-09-09T05:27:50.977Z",
   "site": "https://film4k.net/tv",
-  "total": 203,
+  "total": 197,
   "channels": [
     {
       "id": "ants:3",
       "name": "TNT Sports 1",
       "logo": "https://static.antsports.tv/tvlogo/tnt-sports-1.png",
       "source": "custom",
-      "url": "https://film4k.net/api/tv/ants/3/index.m3u8",
-      "proxy": true
+      "url": "https://west.us-dazn.com/live/3/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vMTI3LjAuMC4xL2FwaS91c2VyLWF1dGgvZ2V0LXVzZXItaW5mby1ieS10b2tlbiIsImlhdCI6MTc4ODcwMTQxMSwiZXhwIjoxNzkzODg1NDExLCJuYmYiOjE3ODg3MDE0MTEsImp0aSI6ImRnRUo1MmNqYlVRbnpSUUYiLCJzdWIiOiIxNTI4MjgyIiwicHJ2IjoiNWZjYThmMDY0ZGJjZTZkMWU1OWY5N2FhNTBjMDc1NGI0YTlkOTgwNiIsInJvbGUiOiJ1c2VyIn0.bu-06jOS4WYBE0If-lZt8TJBC_UuevqCJdFG6lMoUoc",
+      "proxy": false
     },
     {
       "id": "ants:4",
       "name": "TNT Sports 2",
       "logo": "https://static.antsports.tv/tvlogo/tnt-sports-2.png",
       "source": "custom",
-      "url": "https://film4k.net/api/tv/ants/4/index.m3u8",
-      "proxy": true
+      "url": "https://west.us-dazn.com/live/4/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vMTI3LjAuMC4xL2FwaS91c2VyLWF1dGgvZ2V0LXVzZXItaW5mby1ieS10b2tlbiIsImlhdCI6MTc4ODcwMTQxMSwiZXhwIjoxNzkzODg1NDExLCJuYmYiOjE3ODg3MDE0MTEsImp0aSI6ImRnRUo1MmNqYlVRbnpSUUYiLCJzdWIiOiIxNTI4MjgyIiwicHJ2IjoiNWZjYThmMDY0ZGJjZTZkMWU1OWY5N2FhNTBjMDc1NGI0YTlkOTgwNiIsInJvbGUiOiJ1c2VyIn0.bu-06jOS4WYBE0If-lZt8TJBC_UuevqCJdFG6lMoUoc",
+      "proxy": false
     },
     {
       "id": "ants:5",
       "name": "TNT Sports 3",
       "logo": "https://static.antsports.tv/tvlogo/tnt-sports-3.png",
       "source": "custom",
-      "url": "https://film4k.net/api/tv/ants/5/index.m3u8",
-      "proxy": true
+      "url": "https://west.us-dazn.com/live/5/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vMTI3LjAuMC4xL2FwaS91c2VyLWF1dGgvZ2V0LXVzZXItaW5mby1ieS10b2tlbiIsImlhdCI6MTc4ODcwMTQxMSwiZXhwIjoxNzkzODg1NDExLCJuYmYiOjE3ODg3MDE0MTEsImp0aSI6ImRnRUo1MmNqYlVRbnpSUUYiLCJzdWIiOiIxNTI4MjgyIiwicHJ2IjoiNWZjYThmMDY0ZGJjZTZkMWU1OWY5N2FhNTBjMDc1NGI0YTlkOTgwNiIsInJvbGUiOiJ1c2VyIn0.bu-06jOS4WYBE0If-lZt8TJBC_UuevqCJdFG6lMoUoc",
+      "proxy": false
     },
     {
       "id": "ants:6",
       "name": "TNT Sports 4",
       "logo": "https://static.antsports.tv/tvlogo/tnt-sports-4.png",
       "source": "custom",
-      "url": "https://film4k.net/api/tv/ants/6/index.m3u8",
-      "proxy": true
+      "url": "https://west.us-dazn.com/live/6/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vMTI3LjAuMC4xL2FwaS91c2VyLWF1dGgvZ2V0LXVzZXItaW5mby1ieS10b2tlbiIsImlhdCI6MTc4ODcwMTQxMSwiZXhwIjoxNzkzODg1NDExLCJuYmYiOjE3ODg3MDE0MTEsImp0aSI6ImRnRUo1MmNqYlVRbnpSUUYiLCJzdWIiOiIxNTI4MjgyIiwicHJ2IjoiNWZjYThmMDY0ZGJjZTZkMWU1OWY5N2FhNTBjMDc1NGI0YTlkOTgwNiIsInJvbGUiOiJ1c2VyIn0.bu-06jOS4WYBE0If-lZt8TJBC_UuevqCJdFG6lMoUoc",
+      "proxy": false
     },
     {
       "id": "ants:22",
       "name": "Sky Sports Football",
       "logo": "https://static.antsports.tv/tvlogo/sky-sports-football.png",
       "source": "custom",
-      "url": "https://film4k.net/api/tv/ants/22/index.m3u8",
-      "proxy": true
+      "url": "https://west.us-dazn.com/live/22/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vMTI3LjAuMC4xL2FwaS91c2VyLWF1dGgvZ2V0LXVzZXItaW5mby1ieS10b2tlbiIsImlhdCI6MTc4ODcwMTQxMSwiZXhwIjoxNzkzODg1NDExLCJuYmYiOjE3ODg3MDE0MTEsImp0aSI6ImRnRUo1MmNqYlVRbnpSUUYiLCJzdWIiOiIxNTI4MjgyIiwicHJ2IjoiNWZjYThmMDY0ZGJjZTZkMWU1OWY5N2FhNTBjMDc1NGI0YTlkOTgwNiIsInJvbGUiOiJ1c2VyIn0.bu-06jOS4WYBE0If-lZt8TJBC_UuevqCJdFG6lMoUoc",
+      "proxy": false
     },
     {
       "id": "ants:20",
       "name": "Sky Sports Main Events",
       "logo": "https://static.antsports.tv/tvlogo/sky-sports-events.png",
       "source": "custom",
-      "url": "https://film4k.net/api/tv/ants/20/index.m3u8",
-      "proxy": true
+      "url": "https://west.us-dazn.com/live/20/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vMTI3LjAuMC4xL2FwaS91c2VyLWF1dGgvZ2V0LXVzZXItaW5mby1ieS10b2tlbiIsImlhdCI6MTc4ODcwMTQxMSwiZXhwIjoxNzkzODg1NDExLCJuYmYiOjE3ODg3MDE0MTEsImp0aSI6ImRnRUo1MmNqYlVRbnpSUUYiLCJzdWIiOiIxNTI4MjgyIiwicHJ2IjoiNWZjYThmMDY0ZGJjZTZkMWU1OWY5N2FhNTBjMDc1NGI0YTlkOTgwNiIsInJvbGUiOiJ1c2VyIn0.bu-06jOS4WYBE0If-lZt8TJBC_UuevqCJdFG6lMoUoc",
+      "proxy": false
     },
     {
       "id": "ants:4482",
       "name": "Sky Sports League",
       "logo": "https://static.antsports.tv/tvlogo/sky-sports-league.svg",
       "source": "custom",
-      "url": "https://film4k.net/api/tv/ants/4482/index.m3u8",
-      "proxy": true
+      "url": "https://west.us-dazn.com/live/4482/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vMTI3LjAuMC4xL2FwaS91c2VyLWF1dGgvZ2V0LXVzZXItaW5mby1ieS10b2tlbiIsImlhdCI6MTc4ODcwMTQxMSwiZXhwIjoxNzkzODg1NDExLCJuYmYiOjE3ODg3MDE0MTEsImp0aSI6ImRnRUo1MmNqYlVRbnpSUUYiLCJzdWIiOiIxNTI4MjgyIiwicHJ2IjoiNWZjYThmMDY0ZGJjZTZkMWU1OWY5N2FhNTBjMDc1NGI0YTlkOTgwNiIsInJvbGUiOiJ1c2VyIn0.bu-06jOS4WYBE0If-lZt8TJBC_UuevqCJdFG6lMoUoc",
+      "proxy": false
     },
     {
       "id": "ants:16",
       "name": "Sky Sports Action",
       "logo": "https://static.antsports.tv/tvlogo/sky-sports-action.png",
       "source": "custom",
-      "url": "https://film4k.net/api/tv/ants/16/index.m3u8",
-      "proxy": true
-    },
-    {
-      "id": "ants:17",
-      "name": "Sky Sports Arena",
-      "logo": "https://static.antsports.tv/tvlogo/sky-sports-arena.png",
-      "source": "custom",
-      "url": "https://film4k.net/api/tv/ants/17/index.m3u8",
-      "proxy": true
+      "url": "https://west.us-dazn.com/live/16/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vMTI3LjAuMC4xL2FwaS91c2VyLWF1dGgvZ2V0LXVzZXItaW5mby1ieS10b2tlbiIsImlhdCI6MTc4ODcwMTQxMSwiZXhwIjoxNzkzODg1NDExLCJuYmYiOjE3ODg3MDE0MTEsImp0aSI6ImRnRUo1MmNqYlVRbnpSUUYiLCJzdWIiOiIxNTI4MjgyIiwicHJ2IjoiNWZjYThmMDY0ZGJjZTZkMWU1OWY5N2FhNTBjMDc1NGI0YTlkOTgwNiIsInJvbGUiOiJ1c2VyIn0.bu-06jOS4WYBE0If-lZt8TJBC_UuevqCJdFG6lMoUoc",
+      "proxy": false
     },
     {
       "id": "ants:26",
       "name": "Sky Sports News",
       "logo": "https://static.antsports.tv/tvlogo/sky-sports-news.png",
       "source": "custom",
-      "url": "https://film4k.net/api/tv/ants/26/index.m3u8",
-      "proxy": true
+      "url": "https://west.us-dazn.com/live/26/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vMTI3LjAuMC4xL2FwaS91c2VyLWF1dGgvZ2V0LXVzZXItaW5mby1ieS10b2tlbiIsImlhdCI6MTc4ODcwMTQxMSwiZXhwIjoxNzkzODg1NDExLCJuYmYiOjE3ODg3MDE0MTEsImp0aSI6ImRnRUo1MmNqYlVRbnpSUUYiLCJzdWIiOiIxNTI4MjgyIiwicHJ2IjoiNWZjYThmMDY0ZGJjZTZkMWU1OWY5N2FhNTBjMDc1NGI0YTlkOTgwNiIsInJvbGUiOiJ1c2VyIn0.bu-06jOS4WYBE0If-lZt8TJBC_UuevqCJdFG6lMoUoc",
+      "proxy": false
     },
     {
       "id": "ants:18",
@@ -96,72 +88,56 @@
       "name": "Sky Sports Tennis",
       "logo": "https://static.antsports.tv/tvlogo/sky-sports-tennis.png",
       "source": "custom",
-      "url": "https://film4k.net/api/tv/ants/28/index.m3u8",
-      "proxy": true
+      "url": "https://west.us-dazn.com/live/28/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vMTI3LjAuMC4xL2FwaS91c2VyLWF1dGgvZ2V0LXVzZXItaW5mby1ieS10b2tlbiIsImlhdCI6MTc4ODcwMTQxMSwiZXhwIjoxNzkzODg1NDExLCJuYmYiOjE3ODg3MDE0MTEsImp0aSI6ImRnRUo1MmNqYlVRbnpSUUYiLCJzdWIiOiIxNTI4MjgyIiwicHJ2IjoiNWZjYThmMDY0ZGJjZTZkMWU1OWY5N2FhNTBjMDc1NGI0YTlkOTgwNiIsInJvbGUiOiJ1c2VyIn0.bu-06jOS4WYBE0If-lZt8TJBC_UuevqCJdFG6lMoUoc",
+      "proxy": false
     },
     {
       "id": "ants:21",
       "name": "Sky Sports F1",
       "logo": "https://static.antsports.tv/tvlogo/sky-sports-f1.png",
       "source": "custom",
-      "url": "https://film4k.net/api/tv/ants/21/index.m3u8",
-      "proxy": true
+      "url": "https://west.us-dazn.com/live/21/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vMTI3LjAuMC4xL2FwaS91c2VyLWF1dGgvZ2V0LXVzZXItaW5mby1ieS10b2tlbiIsImlhdCI6MTc4ODcwMTQxMSwiZXhwIjoxNzkzODg1NDExLCJuYmYiOjE3ODg3MDE0MTEsImp0aSI6ImRnRUo1MmNqYlVRbnpSUUYiLCJzdWIiOiIxNTI4MjgyIiwicHJ2IjoiNWZjYThmMDY0ZGJjZTZkMWU1OWY5N2FhNTBjMDc1NGI0YTlkOTgwNiIsInJvbGUiOiJ1c2VyIn0.bu-06jOS4WYBE0If-lZt8TJBC_UuevqCJdFG6lMoUoc",
+      "proxy": false
     },
     {
       "id": "ants:23",
       "name": "Sky Sports Golf",
       "logo": "https://static.antsports.tv/tvlogo/sky-sports-golf.png",
       "source": "custom",
-      "url": "https://film4k.net/api/tv/ants/23/index.m3u8",
-      "proxy": true
+      "url": "https://west.us-dazn.com/live/23/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vMTI3LjAuMC4xL2FwaS91c2VyLWF1dGgvZ2V0LXVzZXItaW5mby1ieS10b2tlbiIsImlhdCI6MTc4ODcwMTQxMSwiZXhwIjoxNzkzODg1NDExLCJuYmYiOjE3ODg3MDE0MTEsImp0aSI6ImRnRUo1MmNqYlVRbnpSUUYiLCJzdWIiOiIxNTI4MjgyIiwicHJ2IjoiNWZjYThmMDY0ZGJjZTZkMWU1OWY5N2FhNTBjMDc1NGI0YTlkOTgwNiIsInJvbGUiOiJ1c2VyIn0.bu-06jOS4WYBE0If-lZt8TJBC_UuevqCJdFG6lMoUoc",
+      "proxy": false
     },
     {
       "id": "ants:27",
       "name": "Sky Sports Racing",
       "logo": "https://static.antsports.tv/tvlogo/sky-sports-racing.png",
       "source": "custom",
-      "url": "https://film4k.net/api/tv/ants/27/index.m3u8",
-      "proxy": true
-    },
-    {
-      "id": "ants:4755",
-      "name": "France 24",
-      "logo": "https://api.antsports.tv/storage/flags/20260423/69ea2784898dc.png",
-      "source": "custom",
-      "url": "https://film4k.net/api/tv/ants/4755/index.m3u8",
-      "proxy": true
+      "url": "https://west.us-dazn.com/live/27/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vMTI3LjAuMC4xL2FwaS91c2VyLWF1dGgvZ2V0LXVzZXItaW5mby1ieS10b2tlbiIsImlhdCI6MTc4ODcwMTQxMSwiZXhwIjoxNzkzODg1NDExLCJuYmYiOjE3ODg3MDE0MTEsImp0aSI6ImRnRUo1MmNqYlVRbnpSUUYiLCJzdWIiOiIxNTI4MjgyIiwicHJ2IjoiNWZjYThmMDY0ZGJjZTZkMWU1OWY5N2FhNTBjMDc1NGI0YTlkOTgwNiIsInJvbGUiOiJ1c2VyIn0.bu-06jOS4WYBE0If-lZt8TJBC_UuevqCJdFG6lMoUoc",
+      "proxy": false
     },
     {
       "id": "ants:2420",
       "name": "BBC News",
       "logo": "https://static.antsports.tv/tvlogo/bbc-news.png",
       "source": "custom",
-      "url": "https://film4k.net/api/tv/ants/2420/index.m3u8",
-      "proxy": true
+      "url": "https://west.us-dazn.com/live/2420/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vMTI3LjAuMC4xL2FwaS91c2VyLWF1dGgvZ2V0LXVzZXItaW5mby1ieS10b2tlbiIsImlhdCI6MTc4ODcwMTQxMSwiZXhwIjoxNzkzODg1NDExLCJuYmYiOjE3ODg3MDE0MTEsImp0aSI6ImRnRUo1MmNqYlVRbnpSUUYiLCJzdWIiOiIxNTI4MjgyIiwicHJ2IjoiNWZjYThmMDY0ZGJjZTZkMWU1OWY5N2FhNTBjMDc1NGI0YTlkOTgwNiIsInJvbGUiOiJ1c2VyIn0.bu-06jOS4WYBE0If-lZt8TJBC_UuevqCJdFG6lMoUoc",
+      "proxy": false
     },
     {
       "id": "ants:2443",
       "name": "BBC2",
       "logo": "https://static.antsports.tv/tvlogo/bbc2.png",
       "source": "custom",
-      "url": "https://film4k.net/api/tv/ants/2443/index.m3u8",
-      "proxy": true
-    },
-    {
-      "id": "ants:14",
-      "name": "Sky Cinema Comedy",
-      "logo": "https://static.antsports.tv/tvlogo/sky-cinema.svg.png",
-      "source": "custom",
-      "url": "https://film4k.net/api/tv/ants/14/index.m3u8",
-      "proxy": true
+      "url": "https://west.us-dazn.com/live/2443/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vMTI3LjAuMC4xL2FwaS91c2VyLWF1dGgvZ2V0LXVzZXItaW5mby1ieS10b2tlbiIsImlhdCI6MTc4ODcwMTQxMSwiZXhwIjoxNzkzODg1NDExLCJuYmYiOjE3ODg3MDE0MTEsImp0aSI6ImRnRUo1MmNqYlVRbnpSUUYiLCJzdWIiOiIxNTI4MjgyIiwicHJ2IjoiNWZjYThmMDY0ZGJjZTZkMWU1OWY5N2FhNTBjMDc1NGI0YTlkOTgwNiIsInJvbGUiOiJ1c2VyIn0.bu-06jOS4WYBE0If-lZt8TJBC_UuevqCJdFG6lMoUoc",
+      "proxy": false
     },
     {
       "id": "ants:2447",
       "name": "Film4",
       "logo": "https://static.antsports.tv/tvlogo/film4.png",
       "source": "custom",
-      "url": "https://film4k.net/api/tv/ants/2447/index.m3u8",
-      "proxy": true
+      "url": "https://west.us-dazn.com/live/2447/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vMTI3LjAuMC4xL2FwaS91c2VyLWF1dGgvZ2V0LXVzZXItaW5mby1ieS10b2tlbiIsImlhdCI6MTc4ODcwMTQxMSwiZXhwIjoxNzkzODg1NDExLCJuYmYiOjE3ODg3MDE0MTEsImp0aSI6ImRnRUo1MmNqYlVRbnpSUUYiLCJzdWIiOiIxNTI4MjgyIiwicHJ2IjoiNWZjYThmMDY0ZGJjZTZkMWU1OWY5N2FhNTBjMDc1NGI0YTlkOTgwNiIsInJvbGUiOiJ1c2VyIn0.bu-06jOS4WYBE0If-lZt8TJBC_UuevqCJdFG6lMoUoc",
+      "proxy": false
     },
     {
       "id": "ants:2445",
@@ -176,40 +152,32 @@
       "name": "Premier Sports 1",
       "logo": "https://static.antsports.tv/tvlogo/premier-sports-1.png",
       "source": "custom",
-      "url": "https://film4k.net/api/tv/ants/7867/index.m3u8",
-      "proxy": true
+      "url": "https://west.us-dazn.com/live/7867/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vMTI3LjAuMC4xL2FwaS91c2VyLWF1dGgvZ2V0LXVzZXItaW5mby1ieS10b2tlbiIsImlhdCI6MTc4ODcwMTQxMSwiZXhwIjoxNzkzODg1NDExLCJuYmYiOjE3ODg3MDE0MTEsImp0aSI6ImRnRUo1MmNqYlVRbnpSUUYiLCJzdWIiOiIxNTI4MjgyIiwicHJ2IjoiNWZjYThmMDY0ZGJjZTZkMWU1OWY5N2FhNTBjMDc1NGI0YTlkOTgwNiIsInJvbGUiOiJ1c2VyIn0.bu-06jOS4WYBE0If-lZt8TJBC_UuevqCJdFG6lMoUoc",
+      "proxy": false
     },
     {
       "id": "ants:7868",
       "name": "Premier Sports 2",
       "logo": "https://static.antsports.tv/tvlogo/premier-sports-2.png",
       "source": "custom",
-      "url": "https://film4k.net/api/tv/ants/7868/index.m3u8",
-      "proxy": true
+      "url": "https://west.us-dazn.com/live/7868/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vMTI3LjAuMC4xL2FwaS91c2VyLWF1dGgvZ2V0LXVzZXItaW5mby1ieS10b2tlbiIsImlhdCI6MTc4ODcwMTQxMSwiZXhwIjoxNzkzODg1NDExLCJuYmYiOjE3ODg3MDE0MTEsImp0aSI6ImRnRUo1MmNqYlVRbnpSUUYiLCJzdWIiOiIxNTI4MjgyIiwicHJ2IjoiNWZjYThmMDY0ZGJjZTZkMWU1OWY5N2FhNTBjMDc1NGI0YTlkOTgwNiIsInJvbGUiOiJ1c2VyIn0.bu-06jOS4WYBE0If-lZt8TJBC_UuevqCJdFG6lMoUoc",
+      "proxy": false
     },
     {
       "id": "ants:35",
       "name": "ESPN",
       "logo": "https://static.antsports.tv/tvlogo/espn.png",
       "source": "custom",
-      "url": "https://film4k.net/api/tv/ants/35/index.m3u8",
-      "proxy": true
-    },
-    {
-      "id": "ants:38",
-      "name": "ESPNU",
-      "logo": "https://static.antsports.tv/tvlogo/espnu.png",
-      "source": "custom",
-      "url": "https://film4k.net/api/tv/ants/38/index.m3u8",
-      "proxy": true
+      "url": "https://west.us-dazn.com/live/35/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vMTI3LjAuMC4xL2FwaS91c2VyLWF1dGgvZ2V0LXVzZXItaW5mby1ieS10b2tlbiIsImlhdCI6MTc4ODcwMTQxMSwiZXhwIjoxNzkzODg1NDExLCJuYmYiOjE3ODg3MDE0MTEsImp0aSI6ImRnRUo1MmNqYlVRbnpSUUYiLCJzdWIiOiIxNTI4MjgyIiwicHJ2IjoiNWZjYThmMDY0ZGJjZTZkMWU1OWY5N2FhNTBjMDc1NGI0YTlkOTgwNiIsInJvbGUiOiJ1c2VyIn0.bu-06jOS4WYBE0If-lZt8TJBC_UuevqCJdFG6lMoUoc",
+      "proxy": false
     },
     {
       "id": "ants:7",
       "name": "ITV1",
       "logo": "https://static.antsports.tv/tvlogo/itv1.png",
       "source": "custom",
-      "url": "https://film4k.net/api/tv/ants/7/index.m3u8",
-      "proxy": true
+      "url": "https://west.us-dazn.com/live/7/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vMTI3LjAuMC4xL2FwaS91c2VyLWF1dGgvZ2V0LXVzZXItaW5mby1ieS10b2tlbiIsImlhdCI6MTc4ODcwMTQxMSwiZXhwIjoxNzkzODg1NDExLCJuYmYiOjE3ODg3MDE0MTEsImp0aSI6ImRnRUo1MmNqYlVRbnpSUUYiLCJzdWIiOiIxNTI4MjgyIiwicHJ2IjoiNWZjYThmMDY0ZGJjZTZkMWU1OWY5N2FhNTBjMDc1NGI0YTlkOTgwNiIsInJvbGUiOiJ1c2VyIn0.bu-06jOS4WYBE0If-lZt8TJBC_UuevqCJdFG6lMoUoc",
+      "proxy": false
     },
     {
       "id": "ants:8",
@@ -220,27 +188,11 @@
       "proxy": true
     },
     {
-      "id": "ants:9",
-      "name": "ITV3",
-      "logo": "https://static.antsports.tv/tvlogo/itv3.png",
-      "source": "custom",
-      "url": "https://film4k.net/api/tv/ants/9/index.m3u8",
-      "proxy": true
-    },
-    {
-      "id": "ants:10",
-      "name": "ITV4",
-      "logo": "https://static.antsports.tv/tvlogo/itv4.png",
-      "source": "custom",
-      "url": "https://film4k.net/api/tv/ants/10/index.m3u8",
-      "proxy": true
-    },
-    {
       "id": "2",
       "name": "VTV1 HD",
       "logo": "https://img-zlr1.tv360.vn/image1/2020_09_23/1600822355845/94d27f7043a6_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/154/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjE4NDQsInVyaSI6Ii9icGstdHYvMTU0L291dHB1dC9pbmRleC5tM3U4In0.gufeNJJjVjjKOIRkMzD7Q3zlMsPWghh-7zx9EFHTSkA&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/154/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg4OTE2MTUsInVyaSI6Ii9icGstdHYvMTU0L291dHB1dC9pbmRleC5tM3U4In0.PIRQAShhN1ZgBLU4KcQz8rxvKdkEi5tBwH0aRdlTh60&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -248,7 +200,7 @@
       "name": "ANTV",
       "logo": "https://img-zlr1.tv360.vn/image1/2020_09_23/1600822516608/b33963dc0df8_480_270.png",
       "source": "tv360",
-      "url": "https://rr1-ateme.tv360.vn/live/eds/378378/HLS_Clean_MHL_4s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzM3ODM3OC9ITFNfQ2xlYW5fTUhMXzRzLyIsImV4cCI6MTc4ODQ2MjQzOH0.77HRgkUeoieD8heRxDyw3BeLUAvD5QnRW3yddG02iCPxM9b3J3KRY6Y0IAk5TmKfvkA--Esh3bywlU_0Zyc0rw&screen=MHL&uid=294779473",
+      "url": "https://rr1-ateme.tv360.vn/live/eds/378378/HLS_Clean_MHL_4s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzM3ODM3OC9ITFNfQ2xlYW5fTUhMXzRzLyIsImV4cCI6MTc4ODg4ODEyNn0.iyv2G4n8YlaYP_C1RRsFoWkgP2pnTOm4kf_1_BFsxB4K5nafiMwvMseujyvO0-i8zkHns07YN2TSt0Ey5jXGUA&screen=MHL&uid=294779473",
       "proxy": false
     },
     {
@@ -256,7 +208,7 @@
       "name": "QPVN HD",
       "logo": "https://img-zlr1.tv360.vn/image1/2020_09_23/1600822254297/3c150355b7f8_480_270.png",
       "source": "tv360",
-      "url": "https://rr1-ateme.tv360.vn/live/eds/141/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE0MS9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc4ODQ2MTkwN30.Ck5ulkYK0jkZXnJtz37rUAPabS5m5o0vLsL0bv3gxTUPc7cTEmirhZ6Z-_TrdH9Ez9It2LY99cQJhr6NKkWIdw&screen=MHL&uid=294779473",
+      "url": "https://rr1-ateme.tv360.vn/live/eds/141/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE0MS9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc4ODkwMDcyNn0.k-5Q3_z0zVFNvbrq9nQ5y3QJoN4P7falU0Qdr8GqUN8xZmFP5ZtLH10KX6VFXD1XNQD58yBHsvcsuGQtzCLRlA&screen=MHL&uid=294779473",
       "proxy": false
     },
     {
@@ -264,7 +216,7 @@
       "name": "VTV5 HD",
       "logo": "https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686794357811/c08ce385651d_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/194/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjE5NDMsInVyaSI6Ii9icGstdHYvMTk0L291dHB1dC9pbmRleC5tM3U4In0.VqYVORnY4KlzyXs-8JbrmeCnkMpfjcOehP3sgqbDmSo&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://rr1-ateme.tv360.vn/live/eds/1944/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE5NDQvSExTX0NsZWFuX01ITF8ycy8iLCJleHAiOjE3ODg4OTgwNDR9.kHJf7kwK67GYgt9Qcy_IvJWQxoQoNgKwQz7w7MYHCeILMsqFDtpyAs5-gvxUg5Gj0h8Hy5TQpvmjzAEWRMC3vg&screen=MHL&uid=294779473",
       "proxy": false
     },
     {
@@ -272,7 +224,7 @@
       "name": "VIETNAM TODAY HD",
       "logo": "https://img-zlr1.tv360.vn/image1/2025/12/05/09/1764903286193/46f72417f718_480_270.png",
       "source": "tv360",
-      "url": "https://rr1-ateme.tv360.vn/live/eds/448/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ0OC9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc4ODQ2MjQzOH0.XmkjCDs5ZKdxlOychu0J6kUHkNyEV1P3iGTcBL4inX-bwCwMOgDV_ZXD7eCu4jw6DKXAWmKeUzi63-YVxLJ4ig&screen=MHL&uid=294779473",
+      "url": "https://rr1-ateme.tv360.vn/live/eds/448/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ0OC9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc4ODg5MTcyNn0.tGVECeLTbUw9wSs2MSsg5c7kOK9i7Xo19qfUmEhOIuioj10gE5R3lJVl2RHbDc747qI_hctG3e-2yKNQqLKA0w&screen=MHL&uid=294779473",
       "proxy": false
     },
     {
@@ -280,7 +232,7 @@
       "name": "VTV2 HD",
       "logo": "https://img-zlr1.tv360.vn/image1/2024/12/06/22/1733499750594/3ee337ec7e2b_480_270.png",
       "source": "tv360",
-      "url": "https://rr1-ateme.tv360.vn/live/eds/192/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE5Mi9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc4ODQ2MTgyM30.6te7lXMTmMiFSupX_Dket8J4JqrKCyPHiajB2DDDcCMBxaptDWT0ukdSGTOYXGhaAouahd7g5XjDLBZXUzf3CA&screen=MHL&uid=294779473",
+      "url": "https://tr-netcdn.tv360.vn/netcdn-live/192/output/index.m3u8?timestamp=1788891765&wmkid=0&token=d79a3289e53a1770c70a0f38a66d54d7&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -288,7 +240,7 @@
       "name": "VTV3 HD",
       "logo": "https://img-zlr1.tv360.vn/image1/2024/12/06/22/1733499800775/81ec5a1d4242_480_270.png",
       "source": "tv360",
-      "url": "https://tr-netcdn.tv360.vn/netcdn-live/1552/output/index.m3u8?timestamp=1788461769&wmkid=0&token=246fb933adce7130c67a933792595bfe&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://tr-netcdn.tv360.vn/netcdn-live/1552/output/index.m3u8?timestamp=1788892884&wmkid=0&token=74421e4350b93e4c220372c3790d818f&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -296,7 +248,7 @@
       "name": "VTV4 HD",
       "logo": "https://img-zlr1.tv360.vn/image1/2020_09_23/1600822540493/79943158bdd1_480_270.png",
       "source": "tv360",
-      "url": "https://lsm-g11.tv360.vn/viettel/channel/193/193.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5Scyzi0nbdM8YRwPGKUecMspijeFaUYwLVd/gGFI9ekIR9WhQGsqEETRLn+dkIEahZ3mxLWUQgxZyx+HzjCpr+GlVBibiREXG2mWiJtcwze/ySghA+SN4DlheJ4W8zwUTzYhMa9WPExKL/pYCQ0c4AfRx+DjUUvqPhe/7HZjOqO5g==&uid=294779473",
+      "url": "https://lsm-g11.tv360.vn/viettel/channel/193/193.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5RtE2hBkVQIvXkmw/p4CqPgDShElLvqW00eV7I5Gsw8oDWzBFcapdma1XNSKG4O69SH/01cz5We3wUJonSBsscPVDtDlaSfoD7UYfZgDVJUF3mucfZO8+q6f3fPeIrr6BYklSl3+up9KYDalj7O6HQ9R8ODdcQXLryFLxnzRrACsw==&uid=294779473",
       "proxy": false
     },
     {
@@ -304,7 +256,7 @@
       "name": "VTV5 Tây Nguyên",
       "logo": "https://img-zlr1.tv360.vn/image1/2024/10/07/13/1728284300790/792061a8f346_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/308/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjE3OTMsInVyaSI6Ii9icGstdHYvMzA4L291dHB1dC9pbmRleC5tM3U4In0.FIJjIEYeV4xvFzbA2VFaVPLza1zF3NDRWHVaJSru0Eo&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/308/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg4OTg5MzIsInVyaSI6Ii9icGstdHYvMzA4L291dHB1dC9pbmRleC5tM3U4In0.cwbqvzck0RKxi40JNTmcKQQjrr2CKbSGQ-yAh6APnSM&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -312,7 +264,7 @@
       "name": "VTV5 Tây Nam Bộ",
       "logo": "https://img-zlr1.tv360.vn/image1/2024/10/07/13/1728284084741/78fe644fb1ff_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/307/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI0NDEsInVyaSI6Ii9icGstdHYvMzA3L291dHB1dC9pbmRleC5tM3U4In0.GqRw4G3UUrEjCC1NB7yEwO4qpm8ul5Wl0TOmd-msjws&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/307/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg4OTg5MzIsInVyaSI6Ii9icGstdHYvMzA3L291dHB1dC9pbmRleC5tM3U4In0.7XtJ-_dx8XiGaZCWEwkqwnF-sc9b6VymUEbnFNEQnS8&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -320,7 +272,7 @@
       "name": "VTV6 HD",
       "logo": "https://img-zlr1.tv360.vn/image1/2026/06/08/08/178088041953/212d026a8523_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/479/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjE5OTcsInVyaSI6Ii9icGstdHYvNDc5L291dHB1dC9pbmRleC5tM3U4In0.lQMjeAN_Sj8H2_L8pRZBjf48JUNNaoafkk72NlY7m7o&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://rr1-ateme.tv360.vn/live/eds/479/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ3OS9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc4ODg5MzUzNX0.kjgayHm84MK4ZPhaG-S2Iwav1s4BGGnW6jSYkCSnmOeoMpva5z7mkP0oIW8WCs9vxrCFWN8tVI3MtLxYBMtn2w&screen=MHL&uid=294779473",
       "proxy": false
     },
     {
@@ -328,7 +280,7 @@
       "name": "VTV7 HD",
       "logo": "https://img-zlr1.tv360.vn/image1/2026/06/11/10/1781148165425/bb8d7ab62fcb_480_270.png",
       "source": "tv360",
-      "url": "https://rr1-ateme.tv360.vn/live/eds/195/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE5NS9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc4ODQ2MjQ0MX0.7WJwt6R-jB-4aavkYJqKc6yDnYiJPQKHpqb4XEcsZ0dbBwRosbppg2cTNY2a84tyYuxsb9nIzbXd6ORgTucFoQ&screen=MHL&uid=294779473",
+      "url": "https://rr1-ateme.tv360.vn/live/eds/195/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE5NS9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc4ODg5ODkzMn0.K3-z9EtwtAvVL19MR586FpBDxe6EXanX7BZSOlyCZWCFr3BOItqZ5dzluqCILhkG4frjRxU7Dw9W48sb5ynNuQ&screen=MHL&uid=294779473",
       "proxy": false
     },
     {
@@ -336,7 +288,7 @@
       "name": "VTV8 HD",
       "logo": "https://img-zlr1.tv360.vn/image1/2020_09_21/160069439043/38ef3b4d4000_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/196/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI0NDQsInVyaSI6Ii9icGstdHYvMTk2L291dHB1dC9pbmRleC5tM3U4In0.TG3tiWZomac1xWHoomyjxqHeSXnRCMbU2G8AermAY5U&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/196/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg4ODkwNTAsInVyaSI6Ii9icGstdHYvMTk2L291dHB1dC9pbmRleC5tM3U4In0.k9IrOD3_f0PcjGUpEPTdNYPCjE0xw4wZDviX1krSAUU&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -344,7 +296,7 @@
       "name": "VTV9 HD",
       "logo": "https://img-zlr1.tv360.vn/image1/2026/06/11/10/1781148195485/00d4dbd872e0_480_270.png",
       "source": "tv360",
-      "url": "https://rr1-ateme.tv360.vn/live/eds/197/HLS_Clean_MHL_2s/197.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE5Ny9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc4ODQ2MjQ0NH0.OE_B6bJm4CYYFV3Buc4-EWalyhvCKbE1O-9jfbdymWsozCuoBwfN23_UPPmcc8lBJglIcquiFEFe-2jbL8I7Hg&screen=MHL&uid=294779473",
+      "url": "https://rr1-ateme.tv360.vn/live/eds/197/HLS_Clean_MHL_2s/197.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE5Ny9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc4ODg4OTkzMn0.2Pm67Z016yHtOpC81V-f1HS5hA2gM6IfC_N13jJDB45PbrWvZl8rlX1w3hKRq9isNK8wDCANAuxylamOtGcewQ&screen=MHL&uid=294779473",
       "proxy": false
     },
     {
@@ -352,7 +304,7 @@
       "name": "VTV10 HD",
       "logo": "https://img-zlr1.tv360.vn/image1/2026/03/30/08/1774833030495/4d4313f52c66_480_270.png",
       "source": "tv360",
-      "url": "https://rr1-ateme.tv360.vn/live/eds/156/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE1Ni9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc4ODQ2MjQ0NH0.Z0YIYVleOIAJFOSGevhqV_3hNztjGtHyAWA16aKgSIMbK_nOrMAMRvkyCywviX5IdW_UVoeQkL7ruVE8S2xHCQ&screen=MHL&uid=294779473",
+      "url": "https://rr1-ateme.tv360.vn/live/eds/156/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE1Ni9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc4ODg5ODkzNX0.fyhPsE1eAlajrFW6yCwXcuEaE9GvM8UHMMkkusnTBXmoiXzIp8_KhN22azpYcwIiDLDN_l1jWXkM3qVbIxqLjQ&screen=MHL&uid=294779473",
       "proxy": false
     },
     {
@@ -360,7 +312,7 @@
       "name": "TV360+ 1",
       "logo": "https://img-zlr1.tv360.vn/image1/2026/04/15/22/1776266760359/ba1ca843cd06_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/198/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjE3MTgsInVyaSI6Ii9icGstdHYvMTk4L291dHB1dC9pbmRleC5tcGQifQ.mVRUxVQ2MGi-9RJ_nZFyJmB6zwvWFBzZKB2nDtaxAF4&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/198/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg5MDYxMjksInVyaSI6Ii9icGstdHYvMTk4L291dHB1dC9pbmRleC5tcGQifQ.ll4T3ewtRsrT08sLy_dwPqGhIsKPT8M_KQ_1AQJ9A0Q&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -368,7 +320,7 @@
       "name": "TV360+ 2",
       "logo": "https://img-zlr1.tv360.vn/image1/2026/04/15/22/1776266826697/9647033848f3_480_270.png",
       "source": "tv360",
-      "url": "https://rr1-ateme.tv360.vn/live/eds/199/DASH_DRM_MHL_2s/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE5OS9EQVNIX0RSTV9NSExfMnMvIiwiZXhwIjoxNzg4NDYxNzE4fQ.R8thbMzD4f4wwaF-ItFqio0V2Jjk3dw2CV5qND60TsRx8FQ6ogStevDhj1tfvlZZ8xfSDNvcctkAZX-JKUzgYQ&screen=MHL&uid=294779473",
+      "url": "https://rr1-ateme.tv360.vn/live/eds/199/DASH_DRM_MHL_2s/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE5OS9EQVNIX0RSTV9NSExfMnMvIiwiZXhwIjoxNzg4OTA1NzEyfQ.c0tR5i4CHDOQaPfXo030gTZCtp0BBX2FWu1R2WgECrDSG8uRFKhKREDaqKfXvLPf9pups2drmQE-4elCEx-y9w&screen=MHL&uid=294779473",
       "proxy": false
     },
     {
@@ -376,7 +328,7 @@
       "name": "TV360+ 3",
       "logo": "https://img-zlr1.tv360.vn/image1/2026/04/15/22/1776266894249/af82cd28fcda_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/200/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjE3MTgsInVyaSI6Ii9icGstdHYvMjAwL291dHB1dC9pbmRleC5tcGQifQ.Ldi5swFFcJ5ryFZ9Cvee0GqCWdzoctKnpk9MDTn9BPY&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://rr1-ateme.tv360.vn/live/eds/200/DASH_DRM_MHL_2s/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzIwMC9EQVNIX0RSTV9NSExfMnMvIiwiZXhwIjoxNzg4OTA2MTA1fQ.XsDuq_O8KuHN3oppwAbJJCzGsXyM3PPHdLNtGMrZ8Rg5SNQdjg25TuW-0EXHzpPP_MjLpeLE6SU452NY0kPDvA&screen=MHL&uid=294779473",
       "proxy": false
     },
     {
@@ -384,7 +336,7 @@
       "name": "TV360+ 4",
       "logo": "https://img-zlr1.tv360.vn/image1/2026/04/15/22/1776266956801/9a85754a5bd9_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/201/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjE3MzAsInVyaSI6Ii9icGstdHYvMjAxL291dHB1dC9pbmRleC5tcGQifQ.9BCOEx8_O4rvjMdjftGLlgyx5Wq4ICwJZft-HONEta0&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/201/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg4OTk4MzgsInVyaSI6Ii9icGstdHYvMjAxL291dHB1dC9pbmRleC5tcGQifQ.C7eovzTTDl0zbj6uS5e4cjoFXA9kHvr1wZOXYGJOAIE&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -392,7 +344,7 @@
       "name": "TV360+ 5",
       "logo": "https://img-zlr1.tv360.vn/image1/2026/04/15/22/1776267019948/634cdb439c75_480_270.png",
       "source": "tv360",
-      "url": "https://rr1-ateme.tv360.vn/live/eds/367/DASH_DRM_MHL_2s/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzM2Ny9EQVNIX0RSTV9NSExfMnMvIiwiZXhwIjoxNzg4NDYxNzMwfQ.I1BxscK0f3L8M4i4N0WeLlWhhpJVtGxGdgQixJHggEqwhSo2HCP7fJX7cPhS6vR9SnZVffvK7JQEeV-s3_2zGA&screen=MHL&uid=294779473",
+      "url": "https://rr1-ateme.tv360.vn/live/eds/367/DASH_DRM_MHL_2s/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzM2Ny9EQVNIX0RSTV9NSExfMnMvIiwiZXhwIjoxNzg4OTA1NDYzfQ.VwUGjiyOdkTLcNF3ntdpJgePw207xhot6NCL_vgfCgDzmPNlBE_2QoFc-inGlnWbU_Zl0-EWJBNzf8E8DT_C5A&screen=MHL&uid=294779473",
       "proxy": false
     },
     {
@@ -400,7 +352,7 @@
       "name": "TV360+ 6",
       "logo": "https://img-zlr1.tv360.vn/image1/2026/04/15/22/1776267080314/d06a99b5bd9c_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/368/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjE3MzAsInVyaSI6Ii9icGstdHYvMzY4L291dHB1dC9pbmRleC5tcGQifQ.AivsWjAqmJf3VaI3L7gGBaFU5TW6QudZQiPruKfAw8Y&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/368/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg4OTk1MjksInVyaSI6Ii9icGstdHYvMzY4L291dHB1dC9pbmRleC5tcGQifQ.zNRTXo91U2DFLZy1xeqiwt3fzqBtrKBIjekGPhVwGBA&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -408,7 +360,7 @@
       "name": "TV360+ 7",
       "logo": "https://img-zlr1.tv360.vn/image1/2026/04/15/22/177626714329/4631db40bb03_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/369/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjE3MzksInVyaSI6Ii9icGstdHYvMzY5L291dHB1dC9pbmRleC5tcGQifQ.GlbLs0jao5WqU4JbIvLzu0OHU_jhEy82gOYkpTjbI6w&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/369/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg4OTk4OTIsInVyaSI6Ii9icGstdHYvMzY5L291dHB1dC9pbmRleC5tcGQifQ.54EhFYdkRE_CX46tMhLEobbYLC1YW_X9DYVl3lv8mr4&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -416,7 +368,7 @@
       "name": "TV360+ 8",
       "logo": "https://img-zlr1.tv360.vn/image1/2026/04/15/22/1776267211780/516c4028c806_480_270.png",
       "source": "tv360",
-      "url": "https://rr1-ateme.tv360.vn/live/eds/370/DASH_DRM_MHL_2s/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzM3MC9EQVNIX0RSTV9NSExfMnMvIiwiZXhwIjoxNzg4NDYxNzM5fQ.YEFesb8x6PG1sq835kcZ75bv-6R1-gOJy26LXX1hsuJVEKkBoNlOct2qX9lMxW6R2ltki52JfbLbrXxkX8UVkw&screen=MHL&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/370/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg5MDUzNTUsInVyaSI6Ii9icGstdHYvMzcwL291dHB1dC9pbmRleC5tcGQifQ.OliwN07h1bEwEHW9uILUYs-Fs0_rm53_BKF3nzPvfvg&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -424,7 +376,7 @@
       "name": "TV360+ 9",
       "logo": "https://img-zlr1.tv360.vn/image1/2026/04/15/22/1776267283364/c30a206da84a_480_270.png",
       "source": "tv360",
-      "url": "https://rr1-ateme.tv360.vn/live/eds/379/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzM3OS9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc4ODQ2MTczOX0.0Zt6XPCxgMTCZaDTb1ZHqw7p9LtYXjijVbx3OKpKRvUMp-3x_AOcSF5PfWNICW1ZVFLKCCgpiwz7yWcqL--x1w&screen=MHL&uid=294779473",
+      "url": "https://tr-netcdn.tv360.vn/netcdn-live/379/output/index.m3u8?timestamp=1788905733&wmkid=0&token=85478309f837d3e1a844a715e3425327&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -432,7 +384,7 @@
       "name": "TV360+ 10",
       "logo": "https://img-zlr1.tv360.vn/image1/2026/04/15/22/1776267388401/5f459b37721d_480_270.png",
       "source": "tv360",
-      "url": "https://rr1-ateme.tv360.vn/live/eds/449/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ0OS9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc4ODQ2MTcwOX0.M-BRgzyvSInFpkUYr0FyGaOYCUwy1mRXV3JQxpPJwrwpN9ViFYlT-z_rxWY0imlaLlshT6rWKW0wM_khw5Pi7Q&screen=MHL&uid=294779473",
+      "url": "https://tr-netcdn.tv360.vn/netcdn-live/449/output/index.m3u8?timestamp=1788905784&wmkid=0&token=737bd72afbfd73b87217bba530959362&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -440,7 +392,7 @@
       "name": "TV360+ 11",
       "logo": "https://img-zlr1.tv360.vn/image1/2026/04/15/22/1776267558745/5fc303f5ba08_480_270.png",
       "source": "tv360",
-      "url": "https://rr1-ateme.tv360.vn/live/eds/450/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ1MC9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc4ODQ2MTcxMn0.j_aOq5X1xOYbovNERs1DlZlNmBUIj2U0VRuxxgfUJgp2DVaj92K7lklJRimhLmZk0i_U5p2HmGfqw4p1PIM4ZA&screen=MHL&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/450/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg5MDU3MzYsInVyaSI6Ii9icGstdHYvNDUwL291dHB1dC9pbmRleC5tM3U4In0.t4iOjFBqO85fBiHYnq3tEDms23fod2KULSHnWNudiXM&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -448,7 +400,7 @@
       "name": "TV360+ 12",
       "logo": "https://img-zlr1.tv360.vn/image1/2026/04/15/22/1776267662370/76b4144bff34_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/465/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjE2OTcsInVyaSI6Ii9icGstdHYvNDY1L291dHB1dC9pbmRleC5tcGQifQ.6cVoSZ6nvomt3q0NEejyAggGA8OKjpULb8hChsPZmjQ&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://rr1-ateme.tv360.vn/live/eds/465/DASH_DRM_MHL_2s/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ2NS9EQVNIX0RSTV9NSExfMnMvIiwiZXhwIjoxNzg4ODk5NzcyfQ.Vd8BqgjCOfBbK3EWxr_-7GTOll2uDX6p9HYk-B0J_X8uKySRHW0h7XgdtR41vEtBxiV5jXyloQvTNgUuB_NbXg&screen=MHL&uid=294779473",
       "proxy": false
     },
     {
@@ -456,7 +408,7 @@
       "name": "TV360+ 13",
       "logo": "https://img-zlr1.tv360.vn/image1/2026/05/15/01/1778782670293/dd4067f28084_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/471/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjE3NzgsInVyaSI6Ii9icGstdHYvNDcxL291dHB1dC9pbmRleC5tcGQifQ.pYcmsw6LCM2wkPteNoZm3uQFBEBAtmZdA-IAlSVmILE&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/471/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg5MDU3ODcsInVyaSI6Ii9icGstdHYvNDcxL291dHB1dC9pbmRleC5tcGQifQ.3ys6NyJElF2zsTCLxAexHXEtVQnQxovEiGe2VMpqBo0&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -464,7 +416,7 @@
       "name": "TV360+ 14",
       "logo": "https://img-zlr1.tv360.vn/image1/2026/05/15/01/177878325467/bbecb3ccb477_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/472/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjE3NzgsInVyaSI6Ii9icGstdHYvNDcyL291dHB1dC9pbmRleC5tcGQifQ.rH8dJl4W_hzzvhIW-1HzsR26D_bkdlgffPAWYZMLTk0&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/472/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg5MDU3MzksInVyaSI6Ii9icGstdHYvNDcyL291dHB1dC9pbmRleC5tcGQifQ.CpUUaK2ibu12h1QmhhPeNUd1bbEpOWhA2p01rCojlqE&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -472,7 +424,7 @@
       "name": "TV360+ 15",
       "logo": "https://img-zlr1.tv360.vn/image1/2026/05/15/01/1778783528367/ddfa21d56253_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/473/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjE3NzgsInVyaSI6Ii9icGstdHYvNDczL291dHB1dC9pbmRleC5tcGQifQ.iTQCEwN3dsLrr56bR3VRh_2KiHiQonMycu7G38xVklM&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/473/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg5MDY3MzIsInVyaSI6Ii9icGstdHYvNDczL291dHB1dC9pbmRleC5tcGQifQ.wUuVgJmqGbrkRZrWCqpCA-PRPk8fMSVeufxgyVL1UYY&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -488,7 +440,7 @@
       "name": "TV360",
       "logo": "https://img-zlr1.tv360.vn/image1/2025/09/17/17/175810574912/a5f8181388ab_480_270.png",
       "source": "tv360",
-      "url": "https://rr1-ateme.tv360.vn/live/eds/427/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQyNy9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc4ODQ2MTc4N30.iO_WK04gySkLcC3ny-NGET6F_iUJ13Gu7YvgEdLMnwwMned8lA3A-umVO-kWfltDXuPMdb3yNpmpMNHduL2esQ&screen=MHL&uid=294779473",
+      "url": "https://rr1-ateme.tv360.vn/live/eds/427/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQyNy9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc4ODkwMTAyOX0.RRkrAVo_fXYZ6Xiz8nCy35MvTmXrvJ_MrXC0irWPnvxnsydkt2tG3Tdr1y_HigtxRRtuI4tEJgvDwULiU59jEA&screen=MHL&uid=294779473",
       "proxy": false
     },
     {
@@ -496,7 +448,7 @@
       "name": "Phim Việt",
       "logo": "https://img-zlr1.tv360.vn/image1/2026/04/07/15/1775549899305/f54a93a767c5_480_270.png",
       "source": "tv360",
-      "url": "https://vod-evg4.tv360.vn/we9sF96VZLSi53ucJUlrnA/1788450960/video1/2025/01/16/01/23ca5ee8/a904b0/h264/master.m3u8?uid=294779473",
+      "url": "https://vod-zlr2.tv360.vn/video1/2025/01/09/17/cf620280/23facf/h264/master.m3u8?timestamp=1788895020&token=cfc4588d19d8c35c79804e75d9090816&uid=294779473",
       "proxy": false
     },
     {
@@ -504,7 +456,7 @@
       "name": "Phim Âu Mỹ",
       "logo": "https://img-zlr1.tv360.vn/image1/2026/04/09/08/1775697767861/9a6dc88794cf_480_270.png",
       "source": "tv360",
-      "url": "https://vod-evg4.tv360.vn/up1NpekqOzazmiCIE1g-7g/1788451020/video1/2024/02/27/17/2a155bad/56c80b/h264/master.m3u8?uid=294779473",
+      "url": "https://vod-zlr2.tv360.vn/video1/2023/09/28/09/463f5ef5/4f31d2/h264/dash/stream.mpd?timestamp=1788895620&token=cf9e92205be8c3dc7e15a2f328261781&uid=294779473",
       "proxy": false
     },
     {
@@ -512,7 +464,7 @@
       "name": "Hoạt hình",
       "logo": "https://img-zlr1.tv360.vn/image1/2026/08/03/16/178574886930/9daa0ca42fd8_480_270.png",
       "source": "tv360",
-      "url": "https://vod-evg4.tv360.vn/KZlfpkKNYwzl3SF9-DTX8Q/1788451620/video1/2025/07/10/16/e746e0a7/34e10c/h264/master.m3u8?uid=294779473",
+      "url": "https://vod-evg4.tv360.vn/uBo5wjfYneR4Ldt_xc-TJw/1788893220/video1/2024/01/09/10/fba21230/94654d/h264/master.m3u8?uid=294779473",
       "proxy": false
     },
     {
@@ -520,7 +472,7 @@
       "name": "360 Hoa Ngữ",
       "logo": "https://img-zlr1.tv360.vn/image1/2026/04/09/08/1775697736867/3854900b7263_480_270.png",
       "source": "tv360",
-      "url": "https://tr1-netcdn.tv360.vn/video1/2025/01/17/01/d963b238/e8b05f/h264/master.m3u8?timestamp=1788451620&token=42e03037cc5e31671982d0c5d1fa37b7&uid=294779473",
+      "url": "https://vod-zlr2.tv360.vn/video1/2025/01/17/01/1e09a38e/d8ab63/h264/master.m3u8?timestamp=1788895320&token=f6d94fb9ea6af91dc4d272874af8c603&uid=294779473",
       "proxy": false
     },
     {
@@ -528,7 +480,7 @@
       "name": "360 Hành động Châu Á",
       "logo": "https://img-zlr1.tv360.vn/image1/2026/04/08/10/1775617851169/1f38a5af77c1_480_270.png",
       "source": "tv360",
-      "url": "https://tr1-netcdn.tv360.vn/video1/2023/01/17/20/7ee0ffa8/2b2b15/h264/master.m3u8?timestamp=1788451620&token=67a8aa7aa6558ee5b3c80fe69c7be093&uid=294779473",
+      "url": "https://vod-evg4.tv360.vn/F33YQwDznAQhEItxklO75A/1788876000/video1/2023/05/15/10/e1302d18/4bd75b/h264/master.m3u8?uid=294779473",
       "proxy": false
     },
     {
@@ -536,7 +488,7 @@
       "name": "360 K-Drama",
       "logo": "https://img-zlr1.tv360.vn/image1/2026/04/09/21/1775744591740/79928f9b003f_480_270.png",
       "source": "tv360",
-      "url": "https://tr1-netcdn.tv360.vn/video1/2025/10/01/22/36571eff/6/master.m3u8?timestamp=1788451080&token=46995cf2bdd3e8a7652e78dfe0c0ff45&uid=294779473",
+      "url": "https://vod-evg4.tv360.vn/acfNDGEG0m5gHvd5vc2Bzg/1788882720/video1/2025/10/01/23/9d23eb0e/6/master.m3u8?uid=294779473",
       "proxy": false
     },
     {
@@ -544,7 +496,7 @@
       "name": "360 Hài -Tình cảm",
       "logo": "https://img-zlr1.tv360.vn/image1/2026/04/13/13/1776063183880/03439dc9da19_480_270.png",
       "source": "tv360",
-      "url": "https://vod-evg4.tv360.vn/tt7ebknxexkQw_Rx4rWAtA/1788451620/video1/2023/03/03/10/52e4d4c2/a93d46/h264/master.m3u8?uid=294779473",
+      "url": "https://vod-evg4.tv360.vn/ZZRL4MPOrhJgfulSjYl6sQ/1788882720/video1/2025/02/06/22/06274d50/b150e5/h264/master.m3u8?uid=294779473",
       "proxy": false
     },
     {
@@ -552,7 +504,7 @@
       "name": "360 Phim Kinh điển",
       "logo": "https://img-zlr1.tv360.vn/image1/2026/04/13/13/1776063200976/6ced2ef539a4_480_270.png",
       "source": "tv360",
-      "url": "https://tr1-netcdn.tv360.vn/video1/2026/05/21/13/be972afa/e96a98/h264/master.m3u8?timestamp=1788451620&token=bf0b66008acd4c85d4b4bd013a1a841f&uid=294779473",
+      "url": "https://tr1-netcdn.tv360.vn/video1/2026/05/21/13/962c0798/7a4197/h264/master.m3u8?timestamp=1788883620&token=a0b188b9e79d03517bfb37de6c83fbc7&uid=294779473",
       "proxy": false
     },
     {
@@ -560,7 +512,7 @@
       "name": "360 Anime",
       "logo": "https://img-zlr1.tv360.vn/image1/2026/04/13/13/1776063223569/462daff06d9d_480_270.png",
       "source": "tv360",
-      "url": "https://tr1-netcdn.tv360.vn/video1/2026/04/02/15/56be8d6b/e47b2e/h264/master.m3u8?timestamp=1788451620&token=32954ac0c57200725e6b5380d0cb2c2e&uid=294779473",
+      "url": "https://tr1-netcdn.tv360.vn/video1/2026/04/02/15/31ebd53d/0ea130/h264/master.m3u8?timestamp=1788885060&token=5ed176e786a9a37e27ad2fb04eaab0bd&uid=294779473",
       "proxy": false
     },
     {
@@ -568,7 +520,7 @@
       "name": "360 Thiếu Nhi",
       "logo": "https://img-zlr1.tv360.vn/image1/2026/06/18/13/1781765362332/737c1501b0c5_480_270.png",
       "source": "tv360",
-      "url": "https://tr1-netcdn.tv360.vn/video1/2026/01/09/00/38a1544a/c479ce/h264/master.m3u8?timestamp=1788451620&token=c0b16a00d9e280cd85a47a5f02647f8f&uid=294779473",
+      "url": "https://vod-evg4.tv360.vn/sG63bnEU-UO19Yqgr9hzmw/1788874620/video1/2026/03/12/12/e16d657d/c3be55/h264/master.m3u8?uid=294779473",
       "proxy": false
     },
     {
@@ -576,7 +528,7 @@
       "name": "360 Phim 4K",
       "logo": "https://img-zlr1.tv360.vn/image1/2026/07/30/10/1785382803894/362700e9107b_480_270.png",
       "source": "tv360",
-      "url": "https://tr1-netcdn.tv360.vn/video1/2024/08/26/14/a37b962f/a7751a/h264/master.m3u8?timestamp=1788451620&token=99eae2d2c1f0012aa9a34ec32ed51b06&uid=294779473",
+      "url": "https://vod-evg4.tv360.vn/UwTJtZ1FJ_lGyha8qzVn4g/1788885060/video1/2024/06/28/16/50d0e59e/f8215d/h264/master.m3u8?uid=294779473",
       "proxy": false
     },
     {
@@ -584,7 +536,7 @@
       "name": "360 C1 Châu Âu",
       "logo": "https://img-zlr1.tv360.vn/image1/2026/04/15/22/177626841934/e289a43bd190_480_270.png",
       "source": "tv360",
-      "url": "https://tr1-netcdn.tv360.vn/video1/2025/11/06/16/ede17ae3/554f2c/h264/master.m3u8?timestamp=1788451620&token=1fdebacdb58fc9700bd1c4f897cedc0b&uid=294779473",
+      "url": "https://tr1-netcdn.tv360.vn/video1/2026/01/29/21/c78f39e9/fbfa59/h264/master.m3u8?timestamp=1788875280&token=ed939348e003946a2db0cd7914546314&uid=294779473",
       "proxy": false
     },
     {
@@ -592,7 +544,7 @@
       "name": "360 C2 Châu Âu",
       "logo": "https://img-zlr1.tv360.vn/image1/2026/04/15/23/1776269925378/3875f76de1cd_480_270.png",
       "source": "tv360",
-      "url": "https://vod-evg4.tv360.vn/J5A_O3KZhImIjWehbTDDtA/1788451620/video1/2026/04/10/19/8f4911ac/b38222/h264/master.m3u8?uid=294779473",
+      "url": "https://tr1-netcdn.tv360.vn/video1/2025/10/04/15/8bd5323e/8bd5323e-91b0-45b4-99f4-67ece6245883_6.m3u8?timestamp=1788885120&token=7fb8fbac9da0968a4f6b7206604e8e86&uid=294779473",
       "proxy": false
     },
     {
@@ -600,7 +552,7 @@
       "name": "360 C3 Châu Âu",
       "logo": "https://img-zlr1.tv360.vn/image1/2026/04/15/23/1776269965595/9f150757c9e3_480_270.png",
       "source": "tv360",
-      "url": "https://tr1-netcdn.tv360.vn/video1/2026/04/10/17/4385468a/868235/h264/master.m3u8?timestamp=1788451620&token=da2dd4089709a03ebd5c7d9034e390ba&uid=294779473",
+      "url": "https://tr1-netcdn.tv360.vn/video1/2026/05/01/09/547701cb/da88ca/h264/master.m3u8?timestamp=1788884880&token=80ea1c6e76b26e9f686427eff8cc783c&uid=294779473",
       "proxy": false
     },
     {
@@ -608,7 +560,7 @@
       "name": "360 Thể Thao Châu Á",
       "logo": "https://img-zlr1.tv360.vn/image1/2026/04/16/00/1776274695415/4b2703dbb4c4_480_270.png",
       "source": "tv360",
-      "url": "https://tr1-netcdn.tv360.vn/video1/2026/02/12/01/276494fd/efb1e4/h264/master.m3u8?timestamp=1788451440&token=2111283d379379c635d9a7400e818c36&uid=294779473",
+      "url": "https://vod-evg4.tv360.vn/Fj4UbOSwnJmcOfahL_NMAA/1788887220/video1/2026/05/07/03/28a756dd/e2cf5a/h264/master.m3u8?uid=294779473",
       "proxy": false
     },
     {
@@ -616,7 +568,7 @@
       "name": "360 Công Thức 1",
       "logo": "https://img-zlr1.tv360.vn/image1/2026/04/15/23/1776269172914/ceaa765c5dbe_480_270.png",
       "source": "tv360",
-      "url": "https://tr1-netcdn.tv360.vn/video1/2026/05/24/05/c7a64b51/153a9e/h264/master.m3u8?timestamp=1788451620&token=ed5a49e7aa4fd4e225bc45bcd4ca4553&uid=294779473",
+      "url": "https://tr1-netcdn.tv360.vn/video1/2026/05/03/05/9a9eb19c/2be463/h264/master.m3u8?timestamp=1788889920&token=9ec77cb84df3e154570690531c4f456a&uid=294779473",
       "proxy": false
     },
     {
@@ -624,7 +576,7 @@
       "name": "360 Bundesliga",
       "logo": "https://img-zlr1.tv360.vn/image1/2026/04/16/08/1776301510855/e14eaed5c4d8_480_270.png",
       "source": "tv360",
-      "url": "https://vod-evg4.tv360.vn/O3mIApFL4pNUHtA9jHxwiQ/1788451620/video1/2026/02/08/01/88ffb5bc/d1971f/h264/master.m3u8?uid=294779473",
+      "url": "https://tr1-netcdn.tv360.vn/video1/2026/09/06/01/71390c0f/d3e629/h264/master.m3u8?timestamp=1788878220&token=c09c2e1c151c18753ff59b367f98f9a0&uid=294779473",
       "proxy": false
     },
     {
@@ -632,7 +584,7 @@
       "name": "360 Golf",
       "logo": "https://img-zlr1.tv360.vn/image1/2026/04/16/14/1776326073777/e6e315b781fb_480_270.png",
       "source": "tv360",
-      "url": "https://vod-evg4.tv360.vn/aj8qaKWpfu0NhPURSYXpow/1788451620/video1/2026/07/04/22/a5362b50/2e86d4/h264/master.m3u8?uid=294779473",
+      "url": "https://tr1-netcdn.tv360.vn/video1/2026/06/28/19/3fdcff73/33a7f4/h264/master.m3u8?timestamp=1788889920&token=b615f19a3ebedde1a9d0aada985dde63&uid=294779473",
       "proxy": false
     },
     {
@@ -640,7 +592,7 @@
       "name": "360 Tennis",
       "logo": "https://img-zlr1.tv360.vn/image1/2026/04/16/15/177632805669/a8c9881d6b08_480_270.png",
       "source": "tv360",
-      "url": "https://vod-evg4.tv360.vn/VcrJuF6_Dpjub4H0M-bEpw/1788451200/video1/2026/01/26/01/528abf3d/340dcd/h264/master.m3u8?uid=294779473",
+      "url": "https://tr1-netcdn.tv360.vn/video1/2026/01/29/22/72fb6dc2/78dd80/h264/master.m3u8?timestamp=1788891720&token=852f185409f84efb33623619d405d146&uid=294779473",
       "proxy": false
     },
     {
@@ -664,7 +616,7 @@
       "name": "Warner TV",
       "logo": "https://img-zlr1.tv360.vn/image1/2021/09/30/17/1632996783674/68825acc06f6_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/241/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI0NjIsInVyaSI6Ii9icGstdHYvMjQxL291dHB1dC9pbmRleC5tcGQifQ.iAluw-UsRZjkJlfMu-dvbh__zWN7SwM173AdWBRPJ2g&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/241/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg4OTYyNjIsInVyaSI6Ii9icGstdHYvMjQxL291dHB1dC9pbmRleC5tcGQifQ.-oeSkYH-mJpY_tih-2WkDV0-TEs2QClmpVODQ-OTQCU&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -672,7 +624,7 @@
       "name": "AXN",
       "logo": "https://img-zlr1.tv360.vn/image1/2021/09/30/21/1633012168716/95bc496176f2_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/262/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI0NjIsInVyaSI6Ii9icGstdHYvMjYyL291dHB1dC9pbmRleC5tcGQifQ.FsmD7GMlLFTDP-aftCxK9EsRVVSb175VIZJDlhi7tHU&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/262/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg4ODk5NDQsInVyaSI6Ii9icGstdHYvMjYyL291dHB1dC9pbmRleC5tcGQifQ.Op3R2emSS8k-aR5iajOridvYO0LA2IwruH1REcVP8UU&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -680,7 +632,7 @@
       "name": "Cinema World",
       "logo": "https://img-zlr1.tv360.vn/image1/2025/12/31/00/1767114171189/011dc2ee60d6_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/461/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI0NjUsInVyaSI6Ii9icGstdHYvNDYxL291dHB1dC9pbmRleC5tcGQifQ.aPLwWK1PLmttwUrYg85Ev1UKd3cjxG9wWtUmAPR-iHo&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/461/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg4OTg5NTAsInVyaSI6Ii9icGstdHYvNDYxL291dHB1dC9pbmRleC5tcGQifQ.v1cl-IxnGiZgJ0S11W_fs0OpFne2K-T7v6yxkn4rEy8&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -688,7 +640,7 @@
       "name": "DreamWorks",
       "logo": "https://img-zlr1.tv360.vn/image1/2025/12/31/00/1767114503767/16fabdd762a9_480_270.png",
       "source": "tv360",
-      "url": "https://rr1-ateme.tv360.vn/live/eds/463/DASH_DRM_MHL_2s/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ2My9EQVNIX0RSTV9NSExfMnMvIiwiZXhwIjoxNzg4NDYyNDY1fQ.S3fmHpPeKTXIVf7IzRtBrjNuZZ_lfPKcOZRANaOcKcIp-irNTk-zVAlNZEId2cAzAOnvpdpIYFYE3LWCCywWuA&screen=MHL&uid=294779473",
+      "url": "https://rr1-ateme.tv360.vn/live/eds/463/DASH_DRM_MHL_2s/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ2My9EQVNIX0RSTV9NSExfMnMvIiwiZXhwIjoxNzg4OTAxODAzfQ.za27EIbAsQhLORWC2BO7Y5Y21kM9JDtcsX3Ov16bsln2Q_J5Dh_YaLFw4qr9e9Wkcq1WowEVYOtZO_cCWBTbzQ&screen=MHL&uid=294779473",
       "proxy": false
     },
     {
@@ -696,7 +648,7 @@
       "name": "Cartoon",
       "logo": "https://img-zlr1.tv360.vn/image1/2021/09/30/17/16329991075/0c76e4e7e984_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/240/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI0NjUsInVyaSI6Ii9icGstdHYvMjQwL291dHB1dC9pbmRleC5tcGQifQ.EV9Sre8TmgQx2iySgELUzWmCKTDNKCFoYFAm0qik9bo&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/240/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg5MDA3NDcsInVyaSI6Ii9icGstdHYvMjQwL291dHB1dC9pbmRleC5tcGQifQ.f_iOboJiTEluVnszhsHvYM507239M6yrIxUwCNvm2PQ&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -704,7 +656,7 @@
       "name": "FashionTV",
       "logo": "https://img-zlr1.tv360.vn/image1/2025/12/31/00/1767114669220/2a4f94f276e2_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/464/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI0NjUsInVyaSI6Ii9icGstdHYvNDY0L291dHB1dC9pbmRleC5tcGQifQ.l72DmeJ1TU7DAsvmb3lpZP9YH7ggRPsDJiizC-JkkpQ&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/464/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg4OTgwNjUsInVyaSI6Ii9icGstdHYvNDY0L291dHB1dC9pbmRleC5tcGQifQ.ZI2ZLkcAuTJhF0G2QFMu5CZPWTz7fVSKfWsO7lYFnB8&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -712,7 +664,7 @@
       "name": "Bloomberg",
       "logo": "https://img-zlr1.tv360.vn/image1/2025/12/31/00/1767115195629/60e0ef5853e1_480_270.png",
       "source": "tv360",
-      "url": "https://rr1-ateme.tv360.vn/live/eds/462/DASH_DRM_MHL_2s/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ2Mi9EQVNIX0RSTV9NSExfMnMvIiwiZXhwIjoxNzg4NDYyNDY1fQ.WyV2WmJMI1bbUK27vV9vwJbg4fSkooFCHmw7cpLev2fLbTx61gCQpDUo2D0bt82unZv9pWsuRv3Xm8EkBmnRQg&screen=MHL&uid=294779473",
+      "url": "https://rr1-ateme.tv360.vn/live/eds/462/DASH_DRM_MHL_2s/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ2Mi9EQVNIX0RSTV9NSExfMnMvIiwiZXhwIjoxNzg4ODg4MTUwfQ.5dbPksifi91nYzA0ympL-IvNGY4EYlUtO9hGeTuXuz3_L6rAnFrHsamLty4LY5_6I7effk5-cnPM-x8WH1ch7g&screen=MHL&uid=294779473",
       "proxy": false
     },
     {
@@ -720,7 +672,7 @@
       "name": "Discovery Channel",
       "logo": "https://img-zlr1.tv360.vn/image1/2021/09/30/17/1632999438220/cb5b2ef01b69_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/264/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI0NjUsInVyaSI6Ii9icGstdHYvMjY0L291dHB1dC9pbmRleC5tcGQifQ.uYG73g88FNOB0Pfq3-WLzApo4JtFv-W0mCLU2rut-kw&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/264/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg4OTYyNjUsInVyaSI6Ii9icGstdHYvMjY0L291dHB1dC9pbmRleC5tcGQifQ.d2a-XjpPBXB-rJYQO60Ox9V8-daKCJBz-UB9oUB8rqc&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -728,7 +680,7 @@
       "name": "CNN",
       "logo": "https://img-zlr1.tv360.vn/image1/2021/10/01/08/1633052531161/ccb61db3f667_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/242/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI0NzcsInVyaSI6Ii9icGstdHYvMjQyL291dHB1dC9pbmRleC5tcGQifQ.I3Fy3dxvVxEgDrVd4NFBcZFG9TenxMFce2X-6de5N3M&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/242/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg4OTg5NTMsInVyaSI6Ii9icGstdHYvMjQyL291dHB1dC9pbmRleC5tcGQifQ.eNCbd9OYJgTIzvIqu0qGxmmHrOvT5zQkYTbXfoOZFmY&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -736,7 +688,7 @@
       "name": "ABC Australia",
       "logo": "https://img-zlr1.tv360.vn/image1/2021/09/30/21/1633012334655/9f82fec7aa58_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/269/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI0NzcsInVyaSI6Ii9icGstdHYvMjY5L291dHB1dC9pbmRleC5tcGQifQ.mVCzK6FlXbn94xBw-wBoly9lGsekMY6_9R-PphwwBHY&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/269/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg5MDQzNDcsInVyaSI6Ii9icGstdHYvMjY5L291dHB1dC9pbmRleC5tcGQifQ.8a47y6uSri6rV8u_WKTdImd50c0SYw0CGZW_g60jRUE&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -744,7 +696,7 @@
       "name": "Outdoor HD",
       "logo": "https://img-zlr1.tv360.vn/image1/2020/11/12/10/1605151414697/e4570232b05d_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/146/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI0NzcsInVyaSI6Ii9icGstdHYvMTQ2L291dHB1dC9pbmRleC5tM3U4In0.qsNnIcSoNCCsSHre7VE3HMaap8Qh-d3yhfZ5Q6NZ_3E&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/146/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg4OTk4NjgsInVyaSI6Ii9icGstdHYvMTQ2L291dHB1dC9pbmRleC5tM3U4In0.uSn4y04IRnJSTlg-CZ_YpttFTWCmKG6gfnwOvK8pm70&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -752,7 +704,7 @@
       "name": "Channel News Asia",
       "logo": "https://img-zlr1.tv360.vn/image1/2024/09/30/22/172770964477/d5bbdfff9927_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/433/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI0NzcsInVyaSI6Ii9icGstdHYvNDMzL291dHB1dC9pbmRleC5tM3U4In0.CEvS0UsCKoeskxWEL07SgvoHlNE1bGbHDmzvu9y_uaw&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/433/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg4OTQ0NTMsInVyaSI6Ii9icGstdHYvNDMzL291dHB1dC9pbmRleC5tM3U4In0.MtJbls9wz79E1v-vSLI12bwGPRL9eHfJjzXs-hdY7eo&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -760,7 +712,7 @@
       "name": "AFN HD",
       "logo": "https://img-zlr1.tv360.vn/image1/2020_09_23/1600822480473/e6bb9f277480_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/178/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI0NzcsInVyaSI6Ii9icGstdHYvMTc4L291dHB1dC9pbmRleC5tM3U4In0.q6YX5H6O10qvUGYYjwu99tgdubk5bW04Ut2sZ_crwfU&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/178/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg4OTk4NjgsInVyaSI6Ii9icGstdHYvMTc4L291dHB1dC9pbmRleC5tM3U4In0.cnTxlwPlOaNg4_xujbGX6hVDzVyYcITJz59y5LtrU0s&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -776,7 +728,7 @@
       "name": "KBS World",
       "logo": "https://img-zlr1.tv360.vn/image1/2020_09_23/1600823332611/f8ac56be52c6_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/422/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI0ODAsInVyaSI6Ii9icGstdHYvNDIyL291dHB1dC9pbmRleC5tM3U4In0.RR7I7SLrWX1KqeXdGJb_62XPYqAQMiLL5nGO2V9En8Y&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/422/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg4OTUzNDcsInVyaSI6Ii9icGstdHYvNDIyL291dHB1dC9pbmRleC5tM3U4In0.PzJY1TGjs569BetTQKE2uIDAqcbdWQEbtorWLu43C3k&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -784,7 +736,7 @@
       "name": "DW",
       "logo": "https://img-zlr1.tv360.vn/image1/2022/05/10/15/1652170991466/3334568ab702_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/432/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI0ODAsInVyaSI6Ii9icGstdHYvNDMyL291dHB1dC9pbmRleC5tM3U4In0.OkHEs-BlbtTf9o7YrOJWjhvo8UyrgoFL69RW-nuJD9c&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/432/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg4OTYyNjgsInVyaSI6Ii9icGstdHYvNDMyL291dHB1dC9pbmRleC5tM3U4In0.iPRGWewLW0tEcZj8ckikYis428Cq2gbesIIQjOm0KKw&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -792,7 +744,7 @@
       "name": "NHK",
       "logo": "https://img-zlr1.tv360.vn/image1/2020_09_23/1600823240223/dc739d55a0f5_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/467/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI0ODAsInVyaSI6Ii9icGstdHYvNDY3L291dHB1dC9pbmRleC5tM3U4In0.5Nhj_rR9hsO7_wAc6cDny4ZURAaltHfrcIbcVAbpo7c&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/467/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg5MDcwMzIsInVyaSI6Ii9icGstdHYvNDY3L291dHB1dC9pbmRleC5tM3U4In0.mrJSjpKVvfhxqFicb212eDL-50H3E5k60P4DFluNHug&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -800,7 +752,7 @@
       "name": "France 24",
       "logo": "https://img-zlr1.tv360.vn/image1/2020_09_23/160082328472/0da91b00311f_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/470/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI0ODYsInVyaSI6Ii9icGstdHYvNDcwL291dHB1dC9pbmRleC5tM3U4In0.THlzgyzdBFJOUIipKQ10T32YwRyiNqaF0zUy3rq421Y&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/470/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg5MDcwMzIsInVyaSI6Ii9icGstdHYvNDcwL291dHB1dC9pbmRleC5tM3U4In0.Lj3QVZ_74FVVZpOUWebxUojrMjDRb5xn__vmM79Gaf8&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -808,7 +760,7 @@
       "name": "TV5",
       "logo": "https://img-zlr1.tv360.vn/image1/2024/05/03/23/1714753734110/8e356cdac7e9_480_270.png",
       "source": "tv360",
-      "url": "https://rr1-ateme.tv360.vn/live/eds/468/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ2OC9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc4ODQ2MjQ4Nn0.YcBl1iGSU0BeO2O0AVIeWXLWC-VOudL54KQJYOi2nouU4csODhev6nCdz83bRWeCWqo497E-XvaXgxQjKgyrDg&screen=MHL&uid=294779473",
+      "url": "https://rr1-ateme.tv360.vn/live/eds/468/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ2OC9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc4ODg5ODA3MX0.MOV31nQ7ENdyL5RRAwz_X-vruN1XLNxq_3uQcVFXW9KRr9JSjHyJZ2u4Xa5Amxa0WdTYmtf5Nbt3Z0xiPs_61w&screen=MHL&uid=294779473",
       "proxy": false
     },
     {
@@ -816,7 +768,7 @@
       "name": "CNBC",
       "logo": "https://img-zlr1.tv360.vn/image1/2026/03/29/23/1774802901669/9a839f2886f1_480_270.png",
       "source": "tv360",
-      "url": "https://rr1-ateme.tv360.vn/live/eds/469469/HLS_Clean_MHL_6s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ2OTQ2OS9ITFNfQ2xlYW5fTUhMXzZzLyIsImV4cCI6MTc4ODQ2MjQ4Nn0.Q2DjT369A8EVg_klS--8TKba9kQD1R6vPeAdjGndKylSmMhJw2SyLsYfcWnt8nTCCwLUlS0uhIoiZ0sIvZK_cg&screen=MHL&uid=294779473",
+      "url": "https://rr1-ateme.tv360.vn/live/eds/469469/HLS_Clean_MHL_6s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ2OTQ2OS9ITFNfQ2xlYW5fTUhMXzZzLyIsImV4cCI6MTc4ODg4NTQ3MX0.bZcK1BzdjVjOod2FAAXJxnA8hgaT0NbB1BnNHcRZvj_N0kNrRNzVbMugye7c79rsbEqCsUS2VOd7w3A1w_Dn-w&screen=MHL&uid=294779473",
       "proxy": false
     },
     {
@@ -824,7 +776,7 @@
       "name": "History HD",
       "logo": "https://img-zlr1.tv360.vn/image1/2026/04/20/14/177667111674/a2a11d8f4a75_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/191/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI0ODYsInVyaSI6Ii9icGstdHYvMTkxL291dHB1dC9pbmRleC5tM3U4In0.OvrrRIHrYmjmb_yj1gUTGahA5c9ar8zLzQt5Y6-cDAQ&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/191/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg4OTk4NzEsInVyaSI6Ii9icGstdHYvMTkxL291dHB1dC9pbmRleC5tM3U4In0.UV_hUeizTmzav026OrK9uor5CqUXbNbkQIuk3tv1DXk&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -832,7 +784,7 @@
       "name": "Kix",
       "logo": "https://img-zlr1.tv360.vn/image1/2025/01/24/22/1737733016558/b6a8f1955817_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/166/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI0ODYsInVyaSI6Ii9icGstdHYvMTY2L291dHB1dC9pbmRleC5tM3U4In0.iO3YBummkKRdoBiIzwR_pHD0l--dTZRkw_EDqpyF9AA&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/166/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg4ODU0NzEsInVyaSI6Ii9icGstdHYvMTY2L291dHB1dC9pbmRleC5tM3U4In0.cFgD23XqzYnvzzCQ7l1ccTCyPhHTbXiM3YORaAupc9A&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -840,7 +792,7 @@
       "name": "France 24 SD",
       "logo": "https://img-zlr1.tv360.vn/image1/2026/04/07/23/1775577775404/09de37d2a0ee_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/287/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI0ODksInVyaSI6Ii9icGstdHYvMjg3L291dHB1dC9pbmRleC5tM3U4In0.7mchQSIj65JlawNVh_WYPJ3dFTeKuhfkwCplRmSVO-8&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/287/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg4OTQ0NTksInVyaSI6Ii9icGstdHYvMjg3L291dHB1dC9pbmRleC5tM3U4In0.3kX5FFsuI-bCm25m8r-VjV-vSCAp5ptdQ8jyakQPrKg&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -848,7 +800,7 @@
       "name": "Arirang",
       "logo": "https://img-zlr1.tv360.vn/image1/2020_09_23/1600823492603/d4586db1b09a_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/466/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI0ODksInVyaSI6Ii9icGstdHYvNDY2L291dHB1dC9pbmRleC5tM3U4In0.GWgtAnwLLy-E_v8jQ4CV4aD6IonCYpaY5fnXjDDAXXU&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/466/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg4OTUzNDcsInVyaSI6Ii9icGstdHYvNDY2L291dHB1dC9pbmRleC5tM3U4In0.MIu0_clxVrm0_6B-px-KOV4EfV7OBnq-2rx06jEgNV4&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -856,7 +808,7 @@
       "name": "DaVinci HD",
       "logo": "https://img-zlr1.tv360.vn/image1/2026/04/20/14/1776671050490/04b840309da4_480_270.png",
       "source": "tv360",
-      "url": "https://lsm-g11.tv360.vn:18443/173.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5RN70KWH+8aq5L/IzPqjnhsO4mG9Qz10M/9RFliKROlJcS80GjMAv+2SYubEH6KU68fsyHs9xQ/4pJT6dSZbA20iGsJTDqcLMeDXUVMHNljESdE3TmokXeIwHDPW5Ln8BB/CQCH71eGEeyulVpQqYQ2XUwxPq2o3fe821aLI1DatQ==&uid=294779473",
+      "url": "https://lsm-g11.tv360.vn:18443/173.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5SR4s/3TTbgLxZ5ddQGUccs0nl0jkzWWJFIDCs85JY6q1wNZjEyYijDD1tmwchnxjBXdRWVM7qI7v1qnUGmvqYYzFuHkWfFQDgI3rEVL5Gsie/dK3C/J+hQukQ1qAhdXQaGiZNqV0+gXlzqi2vrK+VA2dHTzgMegGGXpYNToye2GA==&uid=294779473",
       "proxy": false
     },
     {
@@ -864,7 +816,7 @@
       "name": "Vĩnh Long 1",
       "logo": "https://img-zlr1.tv360.vn/image1/2024/10/07/17/1728296900530/38c6e7b9cb86_480_270.png",
       "source": "tv360",
-      "url": "https://tr-netcdn.tv360.vn/netcdn-live/252/output/index.m3u8?timestamp=1788462489&wmkid=0&token=f40479f65d2ff5507e4897f1f6f8f3a6&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/252/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg4OTM1NTksInVyaSI6Ii9icGstdHYvMjUyL291dHB1dC9pbmRleC5tM3U4In0.yOsvISAvrC-hytcxX7EeM_i6y1__O1zu5o7_Fv8OHsk&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -872,7 +824,7 @@
       "name": "Vĩnh Long 2",
       "logo": "https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728294117402/52d6fd6199a5_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/249/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjE3NTQsInVyaSI6Ii9icGstdHYvMjQ5L291dHB1dC9pbmRleC5tM3U4In0.xBiFVeV2i2bNodWI9hj5LeOvKHNnVHsChEUfH24D5-I&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/249/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg5MDYxNTYsInVyaSI6Ii9icGstdHYvMjQ5L291dHB1dC9pbmRleC5tM3U4In0._nFOc5vvvDRb9me8LdcK6Ss_L7nLcGxMVqzRTL_WdZA&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -880,7 +832,7 @@
       "name": "Vĩnh Long 3",
       "logo": "https://img-zlr1.tv360.vn/image1/2025/04/17/22/1744905347918/48d1f6b96d4b_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/250/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI0OTIsInVyaSI6Ii9icGstdHYvMjUwL291dHB1dC9pbmRleC5tM3U4In0._1n5IFzmvqYvHWDgBMFNsutdV5lN9ez5_LcHlfl4dpA&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/250/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg5MDYxNTYsInVyaSI6Ii9icGstdHYvMjUwL291dHB1dC9pbmRleC5tM3U4In0.Ad5zSm05FUfKxQUKd78_IIiktXY1E9R7zrqHhPfZaDk&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -888,7 +840,7 @@
       "name": "Vĩnh Long 4",
       "logo": "https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728294229199/5f70465aa342_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/251/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI0OTIsInVyaSI6Ii9icGstdHYvMjUxL291dHB1dC9pbmRleC5tM3U4In0.KM-r3nAjN8MrYuHAYLlGrPFSvYSELLQDbwAa2ThhoHo&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/251/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg5MDM0NjUsInVyaSI6Ii9icGstdHYvMjUxL291dHB1dC9pbmRleC5tM3U4In0.c00PBpDeYBLZ5R7iGQM_h3zTp1xyIwDRTN2GnWVmjM4&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -896,7 +848,7 @@
       "name": "Vĩnh Long 5",
       "logo": "https://img-zlr1.tv360.vn/image1/2025/09/26/10/1758857744376/434dd0684f49_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/423/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI0OTIsInVyaSI6Ii9icGstdHYvNDIzL291dHB1dC9pbmRleC5tM3U4In0.aJU6LlFxLPicblJhvUpZ642z4SGI9-OUMy705sh7HH0&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/423/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg5MDYxNTYsInVyaSI6Ii9icGstdHYvNDIzL291dHB1dC9pbmRleC5tM3U4In0.NGMP9cyUVsLz3koHRP_Xyhgap3FJt6psxEtTiBIepm4&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -904,7 +856,7 @@
       "name": "HTV1",
       "logo": "https://img-zlr1.tv360.vn/image1/2020_09_23/1600823417472/075a37be16f6_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/441/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI0OTIsInVyaSI6Ii9icGstdHYvNDQxL291dHB1dC9pbmRleC5tM3U4In0.ovRu8zITIYKYqhn7UG1GM9g_V6_obE525MV14aoiivM&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/441/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg5MDM0NjUsInVyaSI6Ii9icGstdHYvNDQxL291dHB1dC9pbmRleC5tM3U4In0.hSilr-o_DxkqNOHzGKg58c11e99xDMibsWJBc9w53Jc&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -912,7 +864,7 @@
       "name": "HTV2",
       "logo": "https://img-zlr1.tv360.vn/image1/2020_09_23/1600823424622/fd4c849487f6_480_270.png",
       "source": "tv360",
-      "url": "https://rr1-ateme.tv360.vn/live/eds/54/HLS_Clean_MHL_6s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzU0L0hMU19DbGVhbl9NSExfNnMvIiwiZXhwIjoxNzg4NDYyNDkyfQ.wwqtwq2G6sqTVlmPjXS5RLJ-g8lsXH0PNEYDoGNXEC2Ej93U1kjxV3DPSfgPi2Tesf6p5VFHq5b041TDDhtL7Q&screen=MHL&uid=294779473",
+      "url": "https://rr1-ateme.tv360.vn/live/eds/54/HLS_Clean_MHL_6s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzU0L0hMU19DbGVhbl9NSExfNnMvIiwiZXhwIjoxNzg4OTA3MDM4fQ.Kp32FnP5Lqy0aIDBd3vdab_C04Pf5w9rfvG0GxkORcY5oVyCwK3Bb5mGVbj0mhYXzuhSNfNUbdBxzjlWnW8emg&screen=MHL&uid=294779473",
       "proxy": false
     },
     {
@@ -920,7 +872,7 @@
       "name": "HTV3",
       "logo": "https://img-zlr1.tv360.vn/image1/2020_09_23/1600823498725/2e64140da5c1_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/442/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI0OTIsInVyaSI6Ii9icGstdHYvNDQyL291dHB1dC9pbmRleC5tM3U4In0.nsMWlkhSKSI3LQ4yJ3NPAbhTe4v70jm-Tmp5ywTHU9M&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/442/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg4OTU0NTgsInVyaSI6Ii9icGstdHYvNDQyL291dHB1dC9pbmRleC5tM3U4In0.q8mHLxEasUbihMNeXUAoQylQ0Wqw9ANyRi-Ckr89ym4&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -928,7 +880,7 @@
       "name": "HTV4",
       "logo": "https://img-zlr1.tv360.vn/image1/2026/04/20/15/1776673483732/71e6c03ac958_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/443/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI0OTUsInVyaSI6Ii9icGstdHYvNDQzL291dHB1dC9pbmRleC5tM3U4In0.LcMHEbLKec5w8W3WCeGbwITSilGzEh5mxr77j5MnIm4&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://rr1-ateme.tv360.vn/live/eds/443443/HLS_Clean_MHL_4s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ0MzQ0My9ITFNfQ2xlYW5fTUhMXzRzLyIsImV4cCI6MTc4ODg5ODA3N30.h_VBEWKvgB2eWZK9pdifSkSMIF0TSTXzJav5StZJCtYXvqbDk0gnHejR2W5ZB_ln8AOHJs6UE8jdXXmXGz2QvA&screen=MHL&uid=294779473",
       "proxy": false
     },
     {
@@ -936,7 +888,7 @@
       "name": "HTV7 HD",
       "logo": "https://img-zlr1.tv360.vn/image1/2020_09_23/1600822381421/47d2615f6141_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/157/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI0OTUsInVyaSI6Ii9icGstdHYvMTU3L291dHB1dC9pbmRleC5tM3U4In0.hB0WF10QEjggPRx0JAgl2XyI_0U4ovXyJaljAD1MexI&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/157/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg4ODg5ODEsInVyaSI6Ii9icGstdHYvMTU3L291dHB1dC9pbmRleC5tM3U4In0.kq_2L4wLTXgF5tAy2UnQUw7JYUBFUOfGWpS1Pxc2m_c&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -944,7 +896,7 @@
       "name": "HTV9 HD",
       "logo": "https://img-zlr1.tv360.vn/image1/2020_09_23/1600822390705/a9fc59138d3b_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/158/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI0OTUsInVyaSI6Ii9icGstdHYvMTU4L291dHB1dC9pbmRleC5tM3U4In0.JvDtO7nlhAYx-xbh0tZTk3UaVnEt8iuTgg-HUiP01Ag&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/158/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg4OTYyNzcsInVyaSI6Ii9icGstdHYvMTU4L291dHB1dC9pbmRleC5tM3U4In0.MaehJvg2wLqoIkgbDfVI3uhgQ9_7nohNSRZ9axIxqHk&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -952,7 +904,7 @@
       "name": "HTV Thể Thao",
       "logo": "https://img-zlr1.tv360.vn/image1/2023/04/03/16/1680514594557/ab2557f0b015_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/304/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjIzODEsInVyaSI6Ii9icGstdHYvMzA0L291dHB1dC9pbmRleC5tM3U4In0.qrLkiQPw1_B4sRDgzFgYIyzfnXZMx2EJrYsU1ED3UK4&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/304/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg4ODk5NTksInVyaSI6Ii9icGstdHYvMzA0L291dHB1dC9pbmRleC5tM3U4In0.KoOw0S-JoN73eXBz4L5pdXHqaZTA_ssodumj-erbcBk&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -960,7 +912,7 @@
       "name": "HTVC gia đình",
       "logo": "https://img-zlr1.tv360.vn/image1/2020_09_23/160082347056/e8ce9503d96a_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/398/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI0OTgsInVyaSI6Ii9icGstdHYvMzk4L291dHB1dC9pbmRleC5tM3U4In0.Q37_CTSbMNxyXmzxET33OcFFMiGmi3hSVBP8xwLbA8U&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/398/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg4OTUzNTMsInVyaSI6Ii9icGstdHYvMzk4L291dHB1dC9pbmRleC5tM3U4In0.DCsx5zZ2sG-j6Fu9pBNtTiDdnu2mfnp8S8kCkXLEGe4&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -968,7 +920,7 @@
       "name": "HTVC phụ Nữ",
       "logo": "https://img-zlr1.tv360.vn/image1/2020_09_23/1600823432136/86f5cc6afcf6_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/420/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI0OTgsInVyaSI6Ii9icGstdHYvNDIwL291dHB1dC9pbmRleC5tM3U4In0.9Ed8iIpkG1wt2MsH3A_3eOCfynblS9PuBNOwZjNPEDw&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/420/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg4ODU0NzcsInVyaSI6Ii9icGstdHYvNDIwL291dHB1dC9pbmRleC5tM3U4In0.251W4WnqjRdQIYP5uvdDqaXRUf40PQ-BepwK8Vn5y-M&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -976,7 +928,7 @@
       "name": "HTVC thuần việt",
       "logo": "https://img-zlr1.tv360.vn/image1/2020_09_23/160082344024/e0032bc647da_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/160/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI0OTgsInVyaSI6Ii9icGstdHYvMTYwL291dHB1dC9pbmRleC5tM3U4In0.kP2fbIfItYUNtnmbAHyRYAmGlqVDDybqFSFTM71D55o&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/160/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg4OTQ0NjUsInVyaSI6Ii9icGstdHYvMTYwL291dHB1dC9pbmRleC5tM3U4In0.4g_1BfPKrOfy1lvErg1w-QauGfEmm4bdfNmS022vDCo&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -984,7 +936,7 @@
       "name": "HTVC phim truyện HD",
       "logo": "https://img-zlr1.tv360.vn/image1/2021/07/01/15/1625129239161/48401c7a9ce3_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/159/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI0OTgsInVyaSI6Ii9icGstdHYvMTU5L291dHB1dC9pbmRleC5tM3U4In0.VkbSsZSZWcuGVn9xJOU-9MvGvIk_crZd78Og8RVVjT8&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/159/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg5MDcwNDQsInVyaSI6Ii9icGstdHYvMTU5L291dHB1dC9pbmRleC5tM3U4In0.J07DmCt9Vi94v-wALbU3kGAo_WXAqmGLht5-XvI3JC0&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -992,7 +944,7 @@
       "name": "HTVC ca nhạc",
       "logo": "https://img-zlr1.tv360.vn/image1/2020_09_23/1600823449894/0834e6a36f71_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/421/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI0OTgsInVyaSI6Ii9icGstdHYvNDIxL291dHB1dC9pbmRleC5tM3U4In0.BSEbDll-8ITKvyNqiZk0epS6QFAa7b0H_HSAqfQXaK0&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/421/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg5MDQzNTYsInVyaSI6Ii9icGstdHYvNDIxL291dHB1dC9pbmRleC5tM3U4In0.E6M8oEm2r_ivkodhPNsIEUqLtCFvJU01CWe3djoFVOw&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -1000,7 +952,7 @@
       "name": "HTVC+ Channel B",
       "logo": "https://img-zlr1.tv360.vn/image1/2020/12/25/10/160886616399/c002b68d052e_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/419/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI0OTgsInVyaSI6Ii9icGstdHYvNDE5L291dHB1dC9pbmRleC5tM3U4In0.VE8lobkjCBinqFRcLeD1mE-kX3UvRhzj90iuf-3esuQ&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/419/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg5MDYxNjIsInVyaSI6Ii9icGstdHYvNDE5L291dHB1dC9pbmRleC5tM3U4In0.RA1FIP2wIWDolvDydzXoKjKWDh2PTLn1D9Lnp_-hD5g&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -1008,7 +960,7 @@
       "name": "HTVC du lịch & cuộc sống",
       "logo": "https://img-zlr1.tv360.vn/image1/2020/12/25/08/1608860643587/bb01290ccde1_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/399/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI1MDEsInVyaSI6Ii9icGstdHYvMzk5L291dHB1dC9pbmRleC5tM3U4In0.Qg2mCo1SoV9aUaWPGg3uo9DLx4seUQBAwP6-Xb-4UBM&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/399/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg5MDcwNDQsInVyaSI6Ii9icGstdHYvMzk5L291dHB1dC9pbmRleC5tM3U4In0.6pNyArzYy8-sIfKQPt6grYfGyu8XuRTYODGzElxbHBQ&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -1016,7 +968,7 @@
       "name": "An Viên HD",
       "logo": "https://img-zlr1.tv360.vn/image1/2026/04/19/17/1776592892204/faf411a67b05_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/246/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI1MDEsInVyaSI6Ii9icGstdHYvMjQ2L291dHB1dC9pbmRleC5tM3U4In0.N5gqhbgHwUNd3fAm37voZcenJUmMEXsqRybAasXYj9s&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/246/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg4OTM1NjUsInVyaSI6Ii9icGstdHYvMjQ2L291dHB1dC9pbmRleC5tM3U4In0.xDuAS61dGnFHYO1GJ_7jkTtSdizvSZB23pn3Wyg7d38&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -1024,7 +976,7 @@
       "name": "FM90",
       "logo": "https://img-zlr1.tv360.vn/image1/2025/03/04/21/1741100167336/f3e6790b51c7_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/428/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI1MDEsInVyaSI6Ii9icGstdHYvNDI4L291dHB1dC9pbmRleC5tM3U4In0.l5lvkVUR8_2_h6yTxxOfTEBo0cr0uv1t_gK2w45Aa_4&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/428/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg5MDcwNDQsInVyaSI6Ii9icGstdHYvNDI4L291dHB1dC9pbmRleC5tM3U4In0.e0cyYCZ2rb7ok65cTlP9IkAsBjZv3fOncZ512KgEWJI&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -1032,7 +984,7 @@
       "name": "FM96",
       "logo": "https://img-zlr1.tv360.vn/image1/2025/03/04/21/1741100081578/f16fac473216_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/429/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI1MDEsInVyaSI6Ii9icGstdHYvNDI5L291dHB1dC9pbmRleC5tM3U4In0.5QYNrUR2b5mv86_lAtw8cZrFYXEYvv_0Y8AK_UTIfYQ&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/429/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg4OTM1NjUsInVyaSI6Ii9icGstdHYvNDI5L291dHB1dC9pbmRleC5tM3U4In0.90r5tbeQZ2xrfLztpbAgKkVZ-jzKZvYGlOBhE0ro8Qg&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -1040,7 +992,7 @@
       "name": "VOH AM610",
       "logo": "https://img-zlr1.tv360.vn/image1/2026/05/25/08/1779673099710/c321a9c85d33_480_270.png",
       "source": "tv360",
-      "url": "https://rr1-ateme.tv360.vn/live/eds/476/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ3Ni9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc4ODQ2MjUwMX0.lAzatBvplqd4iMAWIkSPvofaZYDVJ0HGsyO6nts8J_cYV_KBg2Nxml4n2lZ_bW2EHsi1Lzw5GKQkOKKIV99Bfw&screen=MHL&uid=294779473",
+      "url": "https://rr1-ateme.tv360.vn/live/eds/476/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ3Ni9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc4ODkwNzA0N30.oFygnZN4tTpfuBzmPXUHDUVqi7t2wkSPqUFXV5OWExSfq45_k3GjPg0lSHHy0cUv2towhyDFCHqPKvgrxK2oKw&screen=MHL&uid=294779473",
       "proxy": false
     },
     {
@@ -1048,7 +1000,7 @@
       "name": "VOH FM99",
       "logo": "https://img-zlr1.tv360.vn/image1/2026/05/25/08/1779673413230/6095d75f830a_480_270.png",
       "source": "tv360",
-      "url": "https://rr1-ateme.tv360.vn/live/eds/478/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ3OC9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc4ODQ2MjUwMX0.m_l9J9n0azTi8Bh65TthxICzoi8ib89YMTqgZXtPTwqLxJxf7VvBI_Zb3ZyNY0vhDLleDc1LSz6w1auWSATQrg&screen=MHL&uid=294779473",
+      "url": "https://rr1-ateme.tv360.vn/live/eds/478/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ3OC9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc4ODg4NTQ4M30.8GZETdlaqMkmfm6pnh5qUvIbZz2F2SWwUG897hf2HshRhjTeH3eFcXAjA1RvXZxGdiLZ9-d8SyWFdoiLA3UFQA&screen=MHL&uid=294779473",
       "proxy": false
     },
     {
@@ -1056,7 +1008,7 @@
       "name": "VOH FM87",
       "logo": "https://img-zlr1.tv360.vn/image1/2026/05/25/08/1779673834679/564a27e6f7b6_480_270.png",
       "source": "tv360",
-      "url": "https://rr1-ateme.tv360.vn/live/eds/474/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ3NC9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc4ODQ2MjUwMX0.LeJgxHOd94shXu7VYD5ty-DXEEwn6JbnxYsfD7INJ32w6RI9LHiJrTJJva2FhCjwW96JOZJL9AbepDDFN6Cc7w&screen=MHL&uid=294779473",
+      "url": "https://rr1-ateme.tv360.vn/live/eds/474/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ3NC9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc4ODg5MzU2OH0.rBdlc2B82EKXtccSwkGBKcEsGkplkhb7BYctzsRqHImbH6Sj7a4lJpZLXHdVoOmRJUkDWq58EXZ5agARWcP_YA&screen=MHL&uid=294779473",
       "proxy": false
     },
     {
@@ -1064,7 +1016,7 @@
       "name": "VOH FM95",
       "logo": "https://img-zlr1.tv360.vn/image1/2026/05/25/08/1779674089161/8e51d80307bf_480_270.png",
       "source": "tv360",
-      "url": "https://rr1-ateme.tv360.vn/live/eds/475/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ3NS9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc4ODQ2MjUwNH0.xElCX8o9mSqRMGeLUMzGaRZMFMXh-hjzt4fxrLXNBBgoF0N-fOntWtGJzeLZwD6DK4QYMHpH3Te-fJky4zIj1A&screen=MHL&uid=294779473",
+      "url": "https://rr1-ateme.tv360.vn/live/eds/475/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ3NS9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc4ODg5MjI1N30.zRQHv3uSLtoAbb_D-kOfziVgvM2xaQdeMi_XlGUcAaU1F70_uqnk6aMdOXLkmUQoBnm9UC0WfdIhn0mZbmorAw&screen=MHL&uid=294779473",
       "proxy": false
     },
     {
@@ -1072,7 +1024,7 @@
       "name": "VOH FM92 Radio",
       "logo": "https://img-zlr1.tv360.vn/image1/2026/05/25/08/1779674230519/04eefef71c5b_480_270.png",
       "source": "tv360",
-      "url": "https://rr1-ateme.tv360.vn/live/eds/477/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ3Ny9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc4ODQ2MjUwNH0.wm4K1x_sDrV18GgG3ZX3U-pI-8TRKyH06lKVd0Z67gYZ6EJAMj7q0taur711aHeCbRnFRukVZuQ-1jGky8vHgg&screen=MHL&uid=294779473",
+      "url": "https://rr1-ateme.tv360.vn/live/eds/477/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ3Ny9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc4ODg5NDQ2OH0.1TPWdR-Ks072J-Twt4e4vyhs_H1dcCShXqhy6e8ufFUuGjEE4NjQmPuzDLpecDk_Jmx0TEp4k2ZXER0bXHinVg&screen=MHL&uid=294779473",
       "proxy": false
     },
     {
@@ -1080,7 +1032,7 @@
       "name": "SCTV6",
       "logo": "https://img-zlr1.tv360.vn/image1/2025/07/23/09/1753236453485/c454ca3f905f_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/297/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI1MDQsInVyaSI6Ii9icGstdHYvMjk3L291dHB1dC9pbmRleC5tM3U4In0.RUeLhfSbsY8vz88_8Zp5apTQxA8PLBou1hD4pFxJ5sc&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/297/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg5MDQzNTksInVyaSI6Ii9icGstdHYvMjk3L291dHB1dC9pbmRleC5tM3U4In0.EdN6eksS0_HacX4bfRtxBDhSV9ToEAol3oMHqxldy7c&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -1088,7 +1040,7 @@
       "name": "SCTV2 - Today TV",
       "logo": "https://img-zlr1.tv360.vn/image1/2025/07/23/09/1753236497766/f76b7bf7b94c_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/343/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI1MDcsInVyaSI6Ii9icGstdHYvMzQzL291dHB1dC9pbmRleC5tM3U4In0.ucLvG_9eslX7gJRyhcs0Jdf33TPxYteabBDJWnQ-CWI&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/343/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg5MDYxNjUsInVyaSI6Ii9icGstdHYvMzQzL291dHB1dC9pbmRleC5tM3U4In0.jGNZNUMkdfucm5BWzx0FIJ_4rWOq0j8F_3M3MfDGtf0&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -1096,7 +1048,7 @@
       "name": "VTVcab 16 - On Football HD",
       "logo": "https://img-zlr1.tv360.vn/image1/2023/04/28/09/1682650260303/bc7fe5334315_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/222/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjE3MTgsInVyaSI6Ii9icGstdHYvMjIyL291dHB1dC9pbmRleC5tcGQifQ.8FkqH0RaMIF1IFgc_w4FQOEdCpuDMXw4IlNRSNY623k&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/222/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg5MDU2MjIsInVyaSI6Ii9icGstdHYvMjIyL291dHB1dC9pbmRleC5tcGQifQ.KwCnIKNvTkCGYTDd7Lq2DWJHzxSWKA_bJvbGrGcwGNA&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -1104,7 +1056,7 @@
       "name": "VTVcab 3 - On Sports",
       "logo": "https://img-zlr1.tv360.vn/image1/2023/04/28/09/1682650417399/08d4190f7711_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/221/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjE3MTgsInVyaSI6Ii9icGstdHYvMjIxL291dHB1dC9pbmRleC5tcGQifQ.wQtB5rhP9j6hjeIiC-hP2aDESRq50arRQJRzvVDq35E&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/221/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg5MDUzODUsInVyaSI6Ii9icGstdHYvMjIxL291dHB1dC9pbmRleC5tcGQifQ.yItiWJKSX9Z8_HJqkQPFjAQkLkBqwmAv9W3VZfAk7jU&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -1112,7 +1064,7 @@
       "name": "VTVcab 18 - On Sports News",
       "logo": "https://img-zlr1.tv360.vn/image1/2023/04/28/09/1682650363143/71956aa35c78_480_270.png",
       "source": "tv360",
-      "url": "https://rr1-ateme.tv360.vn/live/eds/223223/DASH_DRM_MHL_2s/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzIyMzIyMy9EQVNIX0RSTV9NSExfMnMvIiwiZXhwIjoxNzg4NDYxNzE4fQ.u_9-55m1LBItOWHVMh6fBkhHNCTuZQaKDkrYmcrN0x1aBknceyFK3ysjCQQqflruFchcUyp27Q9nfVrTgLxLDQ&screen=MHL&uid=294779473",
+      "url": "https://rr1-ateme.tv360.vn/live/eds/223223/DASH_DRM_MHL_2s/index.mpd?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzIyMzIyMy9EQVNIX0RSTV9NSExfMnMvIiwiZXhwIjoxNzg4OTA1NTAyfQ.ApG-hTsCHHhTPKNMcBE4i03kkD--mPTiW3EGlzS1Mum2u0i-ttFu_4NwSAuLwdBzBaEk_a2zJkTjLVCiPngtaA&screen=MHL&uid=294779473",
       "proxy": false
     },
     {
@@ -1120,7 +1072,7 @@
       "name": "VTVcab 23 - Golf Channel",
       "logo": "https://img-zlr1.tv360.vn/image1/2023/04/28/09/1682650320416/f57f4fd63788_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/289/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjE3MTgsInVyaSI6Ii9icGstdHYvMjg5L291dHB1dC9pbmRleC5tM3U4In0.v8XYBEBlGjreAnJmVF3sraOcRsWqvcvvbhL_uqIHQ3k&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/289/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg5MDU3NzIsInVyaSI6Ii9icGstdHYvMjg5L291dHB1dC9pbmRleC5tM3U4In0.yMLCSqv5ZdvjPvMMwy2Y4S4Lv6CA5vDWPnHnVDIReao&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -1128,7 +1080,7 @@
       "name": "VTVcab 6 - On Sports +",
       "logo": "https://img-zlr1.tv360.vn/image1/2023/04/28/09/1682650447548/72acfa0eca2c_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/216/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjE3MTgsInVyaSI6Ii9icGstdHYvMjE2L291dHB1dC9pbmRleC5tcGQifQ.Ze2RlcIyfa1N2XtcvSCeXL850GI3-RSIVobAdTEEL-Y&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/216/output/index.mpd?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg5MDUzMTksInVyaSI6Ii9icGstdHYvMjE2L291dHB1dC9pbmRleC5tcGQifQ.yy9BZhbwJTfXXkSPd32VNfV3dke9hhC6uMkmhebm23c&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -1136,7 +1088,7 @@
       "name": "VTVcab 1 - Vie Giải Trí HD",
       "logo": "https://img-zlr1.tv360.vn/image1/2024/01/02/23/1704211446236/d1503bd3566e_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/211/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjE3MTgsInVyaSI6Ii9icGstdHYvMjExL291dHB1dC9pbmRleC5tM3U4In0.O3QR6NWPrMU-RmMr9jJgaWG7suzs5sz_CR30mY8OHYg&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/211/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg5MDU4MDUsInVyaSI6Ii9icGstdHYvMjExL291dHB1dC9pbmRleC5tM3U4In0.Wc5GcejTLxNlVB2efN67ZGMHpKRS9xlATJRw7n0JkTY&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -1144,7 +1096,7 @@
       "name": "VTVcab 2 - Phim Việt HD",
       "logo": "https://img-zlr1.tv360.vn/image1/2021/09/07/16/1631007494845/516efb158133_480_270.png",
       "source": "tv360",
-      "url": "https://lsm-g12.tv360.vn:18443/348.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5RW4MjZUhqndvdfMJY/ULFKRg0uebIBHLmnWqG7qI5IIcF1wcgtOqR/17mspCM38b/BJaSOVHDIESWbg6rtSRBHU2tV7r5JuCEWj2zd5hxe2j867vinfTGqIXcJQAttY7/r9SNxPrjxuOL8GSpi7C7J0tsLnutVGsonPDy+LlBXhQ==&uid=294779473",
+      "url": "https://lsm-g11.tv360.vn:18443/348.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5SOUKb51b+uOMCQS9ALu/Ll3ZaqXxPU9PR3X8B/8/Mxi21w43lCuraREHvDY+gsOlIzJDxJWp/Fvzxvyt8bAugch06mikbJ1qy1uECy4gAl7/UNcfA8GcNyYlxXdIfh1OBgXY6An8awSJ9h+vwBHuMld15GY08SgMz6qGTcDdVtDw==&uid=294779473",
       "proxy": false
     },
     {
@@ -1152,7 +1104,7 @@
       "name": "VTVcab10 - On Cine HD",
       "logo": "https://img-zlr1.tv360.vn/image1/2021/09/07/17/1631009339636/95e9bc61877c_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/226/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjE3MjEsInVyaSI6Ii9icGstdHYvMjI2L291dHB1dC9pbmRleC5tM3U4In0.HQ5AXVsNH9lGppKRHoYfAysr65L1nvM6oVohOodvrdI&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/226/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg5MDU4MDUsInVyaSI6Ii9icGstdHYvMjI2L291dHB1dC9pbmRleC5tM3U4In0.y6P5pclz83uB84EgTV_SMSe_K_titIYtOK-j53dSNZE&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -1160,7 +1112,7 @@
       "name": "VTVcab19 – Vie Dramas",
       "logo": "https://img-zlr1.tv360.vn/image1/2024/01/03/07/1704241415128/050934936855_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/339/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjE3MjQsInVyaSI6Ii9icGstdHYvMzM5L291dHB1dC9pbmRleC5tM3U4In0.1J17oiDRKUP2CUfowwkzzQYpDERqIbI_OfJRdifBJZY&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/339/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg5MDU5NTIsInVyaSI6Ii9icGstdHYvMzM5L291dHB1dC9pbmRleC5tM3U4In0.XaxiKCQJ462ULvLAErci089X9pKFIi26-bJNp0Dcjug&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -1168,7 +1120,7 @@
       "name": "VTVcab 8 Bibi SD",
       "logo": "https://img-zlr1.tv360.vn/image1/2023/07/19/08/1689731979485/df22eff3c261_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/263/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjE3MjQsInVyaSI6Ii9icGstdHYvMjYzL291dHB1dC9pbmRleC5tM3U4In0.7x0ptLr-a6zF7yy_g8crWNFGrXRJiBdfhR6-jBr74f0&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/263/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg5MDU3NDIsInVyaSI6Ii9icGstdHYvMjYzL291dHB1dC9pbmRleC5tM3U4In0.JDsrZ2Dof_DiAQ2TvQ_qMV1lFtRTKhc4bGdMCOEOslw&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -1176,7 +1128,7 @@
       "name": "VTVcab 21- Cartoon Kids HD",
       "logo": "https://img-zlr1.tv360.vn/image1/2025/07/21/14/1753083917555/313a5cc8943c_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/234/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjE3MjQsInVyaSI6Ii9icGstdHYvMjM0L291dHB1dC9pbmRleC5tM3U4In0.rOI4ermxEhc21T2bsaaz1C2uNZcImeTp08uJP_9OfQQ&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/234/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg5MDYxMjksInVyaSI6Ii9icGstdHYvMjM0L291dHB1dC9pbmRleC5tM3U4In0.hCae26FOLLguCKcAetPciYbLvebJIkVaJch0F4kuvMA&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -1184,7 +1136,7 @@
       "name": "Vtvcab 4 – On Movies",
       "logo": "https://img-zlr1.tv360.vn/image1/2023/02/16/16/1676540062912/f21d4df5b545_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/346/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjE3MjcsInVyaSI6Ii9icGstdHYvMzQ2L291dHB1dC9pbmRleC5tM3U4In0.syXjJDZRD4VYdZNPzbHhSotBfOn89VzYCPEne_ZzcYM&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/346/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg5MDYwOTksInVyaSI6Ii9icGstdHYvMzQ2L291dHB1dC9pbmRleC5tM3U4In0.giCr8VQlX5K9xfz2szCeWtD28HLs_tIxE7QN4n8vu20&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -1192,7 +1144,7 @@
       "name": "VTVcab 5 - E Channel HD",
       "logo": "https://img-zlr1.tv360.vn/image1/2023/07/19/15/1689755306897/935d4d4cde0d_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/212/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjE3MjcsInVyaSI6Ii9icGstdHYvMjEyL291dHB1dC9pbmRleC5tM3U4In0.tOJB7Ubgbh_oTaEfL9Dbul-hpKReEw-vQT5F3o1XGmc&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/212/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg5MDYxMjksInVyaSI6Ii9icGstdHYvMjEyL291dHB1dC9pbmRleC5tM3U4In0.IJoSMVa2D34vXufWkrS3K91OWpUo-Hjj8LKbM2BNn4g&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -1200,7 +1152,7 @@
       "name": "VTVcab 12 - StyleTV HD",
       "logo": "https://img-zlr1.tv360.vn/image1/2023/07/19/09/1689732221934/7138a2e2ade1_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/219/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjE3MjcsInVyaSI6Ii9icGstdHYvMjE5L291dHB1dC9pbmRleC5tM3U4In0.9Pjf5ZbE8YC0b4fMh-iACdtcZPw0b-rt4hUU13GypZo&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/219/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg5MDYxNzEsInVyaSI6Ii9icGstdHYvMjE5L291dHB1dC9pbmRleC5tM3U4In0.2oJSClJbrAumKInJsgtPlSAj9bg8VbnREMs4_pd0QRA&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -1208,7 +1160,7 @@
       "name": "VTVcab15 – On Music",
       "logo": "https://img-zlr1.tv360.vn/image1/2023/07/20/10/1689822524259/0f3a4d1ebfaf_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/220/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjE3MjcsInVyaSI6Ii9icGstdHYvMjIwL291dHB1dC9pbmRleC5tM3U4In0.0ZNf87BtCWvD1Slmvm8wBJ_lgWBrie4-swT1n5TbBBg&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/220/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg5MDYxOTIsInVyaSI6Ii9icGstdHYvMjIwL291dHB1dC9pbmRleC5tM3U4In0.w6m8hBg5Qf65bX4lTNUlCzDZu-bvP-PDBEt7sRZKWN0&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -1216,7 +1168,7 @@
       "name": "Vtvcab17 – Trending TV",
       "logo": "https://img-zlr1.tv360.vn/image1/2023/07/19/16/1689759248732/ebe66c03d7f6_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/350/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjE3MjcsInVyaSI6Ii9icGstdHYvMzUwL291dHB1dC9pbmRleC5tM3U4In0.PmV0WoHPPflelmypbEEb5PIccxZArcyMmlQPeOOq7bY&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/350/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg5MDY2NjksInVyaSI6Ii9icGstdHYvMzUwL291dHB1dC9pbmRleC5tM3U4In0.C05w6a5HIuODZMt2QJrtEO4G7U32z9VcIB5KsNFjMdA&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -1224,7 +1176,7 @@
       "name": "VTVcab 20 - V Family HD",
       "logo": "https://img-zlr1.tv360.vn/image1/2023/07/19/09/1689732486538/904f55c861b5_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/351/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjE3MzAsInVyaSI6Ii9icGstdHYvMzUxL291dHB1dC9pbmRleC5tM3U4In0.LpBLvcURQkp61SLr0aX-2gCRVIiOvxO1iCth8flUQ4A&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/351/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg5MDYzNjMsInVyaSI6Ii9icGstdHYvMzUxL291dHB1dC9pbmRleC5tM3U4In0.6VRMd7ubn7_70lS4fuTG1yXK7QBpdqXz5qSXwAkrbtQ&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -1232,7 +1184,7 @@
       "name": "VTVcab 22 - Life TV HD",
       "logo": "https://img-zlr1.tv360.vn/image1/2023/07/19/09/1689732652862/f124f55c3587_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/347/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjE3MzAsInVyaSI6Ii9icGstdHYvMzQ3L291dHB1dC9pbmRleC5tM3U4In0.eEusZMkR9JSGpOyBKLEi_54dVL2ak131BeUNwcmOd0c&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/347/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg5MDY0MzUsInVyaSI6Ii9icGstdHYvMzQ3L291dHB1dC9pbmRleC5tM3U4In0.7oevxQG8U42KUS3rmoK44htc7IVwkASIoJzMk4ApNnI&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -1240,7 +1192,7 @@
       "name": "VTVcab 9 - InfoTV HD",
       "logo": "https://img-zlr1.tv360.vn/image1/2023/07/19/09/1689732099410/a13853e5de55_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/349/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjE3MzAsInVyaSI6Ii9icGstdHYvMzQ5L291dHB1dC9pbmRleC5tM3U4In0.y4y7lpeXA4C3w6R53Ohiml53IPocADavRedkIvpC8xU&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/349/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg4ODU2OTksInVyaSI6Ii9icGstdHYvMzQ5L291dHB1dC9pbmRleC5tM3U4In0.pkj8wUd41fnQxlgmMaZpzPDyBL3idBmzDl9VFNuvKcg&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -1248,7 +1200,7 @@
       "name": "O2TV",
       "logo": "https://img-zlr1.tv360.vn/image1/2024/08/06/23/1722961565788/ba3ae8e7865d_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/218/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjE3MzAsInVyaSI6Ii9icGstdHYvMjE4L291dHB1dC9pbmRleC5tM3U4In0.8JnFLoqmhLxHscohqUFFQim0X-5QSoXuzKTo4gF6JRw&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/218/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg4ODU3MzUsInVyaSI6Ii9icGstdHYvMjE4L291dHB1dC9pbmRleC5tM3U4In0.esMcfemFyMg_eHO8ZuoTfIBqVjBFCeyevolTzZJhVtg&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -1256,7 +1208,7 @@
       "name": "Quảng Ninh 3",
       "logo": "https://img-zlr1.tv360.vn/image1/2024/10/03/21/1727967101708/09889ad04773_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/390/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI1MTMsInVyaSI6Ii9icGstdHYvMzkwL291dHB1dC9pbmRleC5tM3U4In0.FeTpJLW9PgW2opMdPTFbru5JLRHhjiBasUnbQwptCMI&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/390/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg4OTYyODksInVyaSI6Ii9icGstdHYvMzkwL291dHB1dC9pbmRleC5tM3U4In0.cz8k1iapNGwzMk9MALJ6E8d8lby33yDabNuf_fcZ2vE&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -1264,7 +1216,7 @@
       "name": "Hà Nội 1",
       "logo": "https://img-zlr1.tv360.vn/image1/2024/10/07/17/1728296855302/149490571e60_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/282/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI1MTMsInVyaSI6Ii9icGstdHYvMjgyL291dHB1dC9pbmRleC5tM3U4In0.CZSCVy7r44Koi7h8AYmDkC8nT-9oEfssTmNm4Bgt_d4&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/282/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg4OTgxNzMsInVyaSI6Ii9icGstdHYvMjgyL291dHB1dC9pbmRleC5tM3U4In0.ELxgQnuA19CpbrOWCY6CakD9QfxlOigOOD8uTLv8hp0&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -1272,7 +1224,7 @@
       "name": "Hà Nội 2",
       "logo": "https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728293033798/d23973063be9_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/283/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI1MTMsInVyaSI6Ii9icGstdHYvMjgzL291dHB1dC9pbmRleC5tM3U4In0.qlpZ2Fq06HETxOeC4HKMCIOGOBKVWlHdxR7N9pfGwLc&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://rr1-ateme.tv360.vn/live/eds/283/HLS_Clean_MHL_2s/283.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzI4My9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc4ODkwMzQ4MH0.GYl2iVzCLv5UMPEGztYHKKMW6RffJ_kBElOEjrHoAQ7VKH_BcZv-uyW_mVIuPuZykcrQSy9KUuU5VKvM0kRRAQ&screen=MHL&uid=294779473",
       "proxy": false
     },
     {
@@ -1280,7 +1232,7 @@
       "name": "An Giang 2",
       "logo": "https://img-zlr1.tv360.vn/image1/2025/07/01/15/1751358776543/87a0d91f8e5a_480_270.png",
       "source": "tv360",
-      "url": "https://rr1-ateme.tv360.vn/live/eds/3144/CMAF_Clean_MHL_6s/3144.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzMxNDQvQ01BRl9DbGVhbl9NSExfNnMvIiwiZXhwIjoxNzg4NDYyNTE2fQ.WKirTmQhdevyFF7A56MvTfs6b80iwvut6BvG1uu7gRAwY-F6K3rX-xnzRUaW7yfimZc8S0SVO0OwkzBxTK49iw&screen=MHL&uid=294779473",
+      "url": "https://rr1-ateme.tv360.vn/live/eds/3144/CMAF_Clean_MHL_6s/3144.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzMxNDQvQ01BRl9DbGVhbl9NSExfNnMvIiwiZXhwIjoxNzg4ODk2Mjg5fQ.IAUWSrPjUZg0o4As3oG9izOeM36lehvjR7cLbm0HAPe9XHcnHAbA5EEhMpvWBAETkPpr2NHiYZbgzp6VR857tA&screen=MHL&uid=294779473",
       "proxy": false
     },
     {
@@ -1288,7 +1240,7 @@
       "name": "BTV6",
       "logo": "https://img-zlr1.tv360.vn/image1/2026/07/31/00/1785431520501/782bdfe129db_480_270.png",
       "source": "tv360",
-      "url": "https://rr1-ateme.tv360.vn/live/eds/182/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE4Mi9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc4ODQ2MjUxNn0.9aO-7NCE-7DVNhemPrrvCFo8xi-boVKrxEoqn2GI4mlZVcarroKATcXddFa754JV42-bI3Mnr-rrWMopejBYtA&screen=MHL&uid=294779473",
+      "url": "https://rr1-ateme.tv360.vn/live/eds/182/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzE4Mi9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc4ODkwNjE3NH0.Sa2Wx7V_FPZqMFQ0HnEQy5skMJEIQvNjnZhvpKDIJbFb5gSvHT68ncWOTCaxuxaWSzx-80j1F2yF-IMpYB1voQ&screen=MHL&uid=294779473",
       "proxy": false
     },
     {
@@ -1296,7 +1248,7 @@
       "name": "YouTV",
       "logo": "https://img-zlr1.tv360.vn/image1/2020_09_23/1600823396313/7b474bf7bbce_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/447/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI1MTYsInVyaSI6Ii9icGstdHYvNDQ3L291dHB1dC9pbmRleC5tM3U4In0.S055alFIO4D7eSblXct-UkcCeXacjorkvoH2t0p7wcU&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://rr1-ateme.tv360.vn/live/eds/447/HLS_Clean_MHL_2s/447.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ0Ny9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc4ODkwNzA1MH0.xeCKszeMj62tIkaFDCL8Ktse1PbKcX4PUjlMW0NchY1NlapiyJqZaYRg6HL0J2MMhMWufmg6l_pZb9b8-nryLQ&screen=MHL&uid=294779473",
       "proxy": false
     },
     {
@@ -1304,7 +1256,7 @@
       "name": "HITV",
       "logo": "https://img-zlr1.tv360.vn/image1/2020_09_23/1600823412691/61627b84a612_480_270.png",
       "source": "tv360",
-      "url": "https://lsm-g11.tv360.vn:18443/332.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5SYVN+pUKHzRe903hsME/O8GNuMUUT83i94/kpf6WyeZX1e0Bb99+sOyiVbGz3QT8P7VxJWKWuD7q1Em671KukK2B5ENyym85fxo6tS3xahY2Clhtn+aJcYN5skNS9DRBUoMIJ98otcjGHzivylmY2F5G8hrxk66C1uHqET6kik8g==&uid=294779473",
+      "url": "https://lsm-g12.tv360.vn:18443/332.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5RiyUQ4XWvp1gHfkJpSwuB90a88NHQm1unkIBZsiN9sPeK9JMU9LmL5D2HrkVQOXQb+euKMTqG9JPGlJlrINNWfTPG5nWNv++kvxN8fwFiKutXedCgFE1DToEU0saHP8sRdaPBfjzGizWRI6xVopG/kKfwGqBxFBt9DNcS+K8KxDg==&uid=294779473",
       "proxy": false
     },
     {
@@ -1312,7 +1264,7 @@
       "name": "Bắc Ninh",
       "logo": "https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728292026843/2a0e3c73a0a3_480_270.png",
       "source": "tv360",
-      "url": "https://rr1-ateme.tv360.vn/live/eds/328/CMAF_Clean_MHL_6s/328.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzMyOC9DTUFGX0NsZWFuX01ITF82cy8iLCJleHAiOjE3ODg0NjI1MTZ9.S8qBJVu7Cpe8HGXSuJ9lwzbWwJXrhCLFek9Yd2ybE9EFfuIIwLpKD3o7APESZxvm8oBxJ6N6XZfxkAcI1XnytA&screen=MHL&uid=294779473",
+      "url": "https://rr1-ateme.tv360.vn/live/eds/328/CMAF_Clean_MHL_6s/328.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzMyOC9DTUFGX0NsZWFuX01ITF82cy8iLCJleHAiOjE3ODg5MDA3Njh9.5wI6dAEtVCm-Y3-KWwVF58UWzF5ILfGRms92Z5nCsW3pH21GJRgDZacdh2a9lMLXNfQMijFsHFb9hKBxlDumAQ&screen=MHL&uid=294779473",
       "proxy": false
     },
     {
@@ -1320,7 +1272,7 @@
       "name": "Lâm Đồng 2",
       "logo": "https://img-zlr1.tv360.vn/image1/2025/09/16/10/1757993660312/1082b4f9d963_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/393/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI1MTYsInVyaSI6Ii9icGstdHYvMzkzL291dHB1dC9pbmRleC5tM3U4In0.2JgEnyw4fiUK5P-RqAvAO3i1I9Rfg6EUVAzG7u6kilk&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/393/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg4OTM1NzcsInVyaSI6Ii9icGstdHYvMzkzL291dHB1dC9pbmRleC5tM3U4In0.rAl3Lb2-6TThJPhFcd8rM5uGoG7vL3tbZEn6q-0ayq8&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -1328,7 +1280,7 @@
       "name": "Cà Mau",
       "logo": "https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728292350834/ec688c9d5bb2_480_270.png",
       "source": "tv360",
-      "url": "https://rr1-ateme.tv360.vn/live/eds/314/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzMxNC9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc4ODQ2MjUxOX0.7MgEXxQ_5aJWNbhKCxyu4hg6nREl1J8uN-biBYN5Uz_LOd_zf-SccZnspIiSR-di74BemzSMkXBKWETVvJE1Tw&screen=MHL&uid=294779473",
+      "url": "https://rr1-ateme.tv360.vn/live/eds/314/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzMxNC9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc4ODg5MzU3N30.rDGhOpyakAj2pLYjSSZASXU5wA6OPBBDAA1J2ODY5nFXi0FRumKpkgiAsUfq6Akv9CJLfbUFMRVJEVVmT1-zGA&screen=MHL&uid=294779473",
       "proxy": false
     },
     {
@@ -1336,7 +1288,7 @@
       "name": "Cần Thơ 1",
       "logo": "https://img-zlr1.tv360.vn/image1/2025/11/05/16/1762336328954/07ecc9b857a5_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/326/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI1MTksInVyaSI6Ii9icGstdHYvMzI2L291dHB1dC9pbmRleC5tM3U4In0.VVhZ1GhCbb74v3bxz4yi7tr8M-GNL744LdclHSjhM5M&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/326/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg4OTQ0NzcsInVyaSI6Ii9icGstdHYvMzI2L291dHB1dC9pbmRleC5tM3U4In0.jCzhbqzhybEhuIGROOZlhHY8Mua4Bdt-zA84cCN4Bn0&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -1344,7 +1296,7 @@
       "name": "Cao Bằng",
       "logo": "https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728292499129/aeb3499f5824_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/364/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI1MTksInVyaSI6Ii9icGstdHYvMzY0L291dHB1dC9pbmRleC5tM3U4In0.5rQ0YRmm3VgY-xDCq36M4aC-Q32SlEw3Yj-LecNG21k&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/364/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg4OTYyOTUsInVyaSI6Ii9icGstdHYvMzY0L291dHB1dC9pbmRleC5tM3U4In0.vtbQz9QrsjtWuZes22iZlMwKmW7IKaLDKfY1hGf0Y4U&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -1352,7 +1304,7 @@
       "name": "Đà Nẵng 1",
       "logo": "https://img-zlr1.tv360.vn/image1/2025/07/01/09/1751337054302/df569bbaeead_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/436/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI1MjIsInVyaSI6Ii9icGstdHYvNDM2L291dHB1dC9pbmRleC5tM3U4In0.aIinAAGpBWG8nBODfLpU_5g2PWDs0wshWlQvmNV742M&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/436/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg4OTYyOTUsInVyaSI6Ii9icGstdHYvNDM2L291dHB1dC9pbmRleC5tM3U4In0.G54yoFWaKdtP6gyOWEFTXlevVPi5p7BKieoRykr-Y78&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -1360,7 +1312,7 @@
       "name": "Đắk Lắk",
       "logo": "https://img-zlr1.tv360.vn/image1/2025/06/30/11/1751256466336/bda77a407209_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/273/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI1MjIsInVyaSI6Ii9icGstdHYvMjczL291dHB1dC9pbmRleC5tM3U4In0.DFlR_q2bKI-VLx4VuWtTnSqPclyGhqH3Zx2gbgizJPs&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/273/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg4OTM1ODAsInVyaSI6Ii9icGstdHYvMjczL291dHB1dC9pbmRleC5tM3U4In0.wJZSkBYy6dmrJ_lTecw0LPdM1jAQc-QYhF_jnX10Tks&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -1368,7 +1320,7 @@
       "name": "Điện Biên",
       "logo": "https://img-zlr1.tv360.vn/image1/2020_09_23/1600823593760/3a9a9e608e8d_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/395/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI1MjIsInVyaSI6Ii9icGstdHYvMzk1L291dHB1dC9pbmRleC5tM3U4In0.TB05_wdtJwjcL67FiC2aT7JHnfVok3Ewrv-wJ1ZjdKM&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/395/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg4OTgwOTgsInVyaSI6Ii9icGstdHYvMzk1L291dHB1dC9pbmRleC5tM3U4In0.ZF_gXfdd0ekgVdicXOksAKIpK7HDh9T-UtCni1jFNwk&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -1376,7 +1328,7 @@
       "name": "Đồng Nai 1",
       "logo": "https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728292646666/9cb8f84c6b6a_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/371/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI1MjIsInVyaSI6Ii9icGstdHYvMzcxL291dHB1dC9pbmRleC5tM3U4In0.Np-67h1RAj7hiU0Frf3uDQGt_GuQ41mZB0kQ51DQO_U&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/371/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg4OTQ0ODAsInVyaSI6Ii9icGstdHYvMzcxL291dHB1dC9pbmRleC5tM3U4In0.AjuX9sw-LMgwjrlz6JYrIpdqs7mqZdP2wREu5n_vnyg&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -1384,7 +1336,7 @@
       "name": "Đồng Tháp 1",
       "logo": "https://img-zlr1.tv360.vn/image1/2025/07/01/08/1751331689553/f287ef8d8574_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/372/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI1MjIsInVyaSI6Ii9icGstdHYvMzcyL291dHB1dC9pbmRleC5tM3U4In0.ex4bfdUtlV3QmvF7Mf8vphJZTc7t7nK_WweNo6geVtU&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/372/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg4OTYyOTUsInVyaSI6Ii9icGstdHYvMzcyL291dHB1dC9pbmRleC5tM3U4In0.cwcRT6SnETikONqYum3DOScDyiRANxNaci0iJYw8Qa0&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -1392,7 +1344,7 @@
       "name": "Gia Lai",
       "logo": "https://img-zlr1.tv360.vn/image1/2025/07/01/15/1751357063814/d3ab51ec71c8_480_270.png",
       "source": "tv360",
-      "url": "https://lsm-g11.tv360.vn:18443/259.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5T2MIUsR3xBV3Jgc9KKfoFxygcNaakKH4drpvPMhH7eBOb//7fB/GnQwV/rFuAMluA7OfN3eYshXEUN6/2OEzixmigI7YxXA0qCr3AGQXIDjDcl5N0D8mhULBtc1YuDrTNOr++YgxuvIbT/XwmGXQ3ZXA8zfpU9IZmONie62HefAA==&uid=294779473",
+      "url": "https://lsm-g11.tv360.vn:18443/259.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5R0cPoK2KGhHLoiqnOzbtUdT9pYkFp+JxOR/6U6LVglY1K67/IThRnjxaERTqQv4I5KTKeZCMPecpMpnJzuEEKk11sckFhDlR/VjXOIPBZboPTw3t1dXFpb+Mje2LYirAmEcXFjde6xVpwEmISywwCkemHsR+//6J4ASCQEsOedDQ==&uid=294779473",
       "proxy": false
     },
     {
@@ -1400,7 +1352,7 @@
       "name": "Hà Tĩnh",
       "logo": "https://img-zlr1.tv360.vn/image1/2025/07/01/17/1751364753117/4f1f0d74fc87_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/365/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI1MjIsInVyaSI6Ii9icGstdHYvMzY1L291dHB1dC9pbmRleC5tM3U4In0.qJS-k6RiAyq9GOqruNMA45FSj0HYW0dOB8JSFHcaSsc&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/365/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg4OTUzNzEsInVyaSI6Ii9icGstdHYvMzY1L291dHB1dC9pbmRleC5tM3U4In0.V6HpvCxgFvR94nD3W4pjJqI4XgpQPFVIOoIjl_CE9zY&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -1408,7 +1360,7 @@
       "name": "Hải Phòng 3",
       "logo": "https://img-zlr1.tv360.vn/image1/2025/07/01/08/1751332762796/cf7b86889958_480_270.png",
       "source": "tv360",
-      "url": "https://rr1-ateme.tv360.vn/live/eds/317/CMAF_Clean_MHL_6s/317.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzMxNy9DTUFGX0NsZWFuX01ITF82cy8iLCJleHAiOjE3ODg0NjI1MjV9.oPm6AB8GjU9PQZWFAnsl1bW35Assi3uOItsOya9mtITZ8iC1VrEZvu3fF777_vQ3Wk_l9ZFGu6ZEXDZ7u7_Rww&screen=MHL&uid=294779473",
+      "url": "https://rr1-ateme.tv360.vn/live/eds/317/CMAF_Clean_MHL_6s/317.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzMxNy9DTUFGX0NsZWFuX01ITF82cy8iLCJleHAiOjE3ODg5MDcwNTl9.dDovugymv6zbrgUgQol7LIkaBjE8TZs05c0cpMCHpii1OSvF1GCZJXedSHXkFgiCwuDQ5kkOUhnVAASCQYp3dg&screen=MHL&uid=294779473",
       "proxy": false
     },
     {
@@ -1416,7 +1368,7 @@
       "name": "Hải Phòng",
       "logo": "https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728293124933/96ed2cfade28_480_270.png",
       "source": "tv360",
-      "url": "https://rr1-ateme.tv360.vn/live/eds/305/CMAF_Clean_MHL_6s/305.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzMwNS9DTUFGX0NsZWFuX01ITF82cy8iLCJleHAiOjE3ODg0NjI1MjV9.rf7QC5U6WWgd6Y4M8nlbL49RfSagowiL0qJYOv61P-u8j-jHG2dsdgJBwvkJMOWgru66n3npTH-XVBJgQTPuJA&screen=MHL&uid=294779473",
+      "url": "https://rr1-ateme.tv360.vn/live/eds/305/CMAF_Clean_MHL_6s/305.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzMwNS9DTUFGX0NsZWFuX01ITF82cy8iLCJleHAiOjE3ODg4OTM1ODN9.Ov4ESWPlKrodiAvCteU6nPFRh3g0ZNf5BWqFz7ob5URqbubwx_qEt4_G5DZ7hITVEoy7xXHw4UTuYJbn7i03kA&screen=MHL&uid=294779473",
       "proxy": false
     },
     {
@@ -1424,7 +1376,7 @@
       "name": "Cần Thơ 2",
       "logo": "https://img-zlr1.tv360.vn/image1/2025/11/05/16/176233636246/8ded7c5a9010_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/397/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI1MjUsInVyaSI6Ii9icGstdHYvMzk3L291dHB1dC9pbmRleC5tM3U4In0.VkKJt3D82U9MB7RNQMSBIggSWZQN9pDL6WGX3Ap8Ixg&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/397/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg4OTk4OTIsInVyaSI6Ii9icGstdHYvMzk3L291dHB1dC9pbmRleC5tM3U4In0.Dw4OtULOMomjSeUVwsqmi0D9C8KZ_VVKdN0WTe7PJVI&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -1432,7 +1384,7 @@
       "name": "Huế",
       "logo": "https://img-zlr1.tv360.vn/image1/2025/07/01/17/1751364479653/fdd748c39c4d_480_270.png",
       "source": "tv360",
-      "url": "https://rr1-ateme.tv360.vn/live/eds/322/CMAF_Clean_MHL_6s/322.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzMyMi9DTUFGX0NsZWFuX01ITF82cy8iLCJleHAiOjE3ODg0NjI1MjV9.EJjrfmPd1ToF9RvKdh7VnhzkmTUsPn0GtOfWwhMMCK0XpB4QvL8bFt2_rcUM2r6LKoKRNbhThvg4ewzOimUNow&screen=MHL&uid=294779473",
+      "url": "https://rr1-ateme.tv360.vn/live/eds/322/CMAF_Clean_MHL_6s/322.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzMyMi9DTUFGX0NsZWFuX01ITF82cy8iLCJleHAiOjE3ODg5MDcwNTl9.pzZPMQafyosWyQYb8SHrTWUB2GFId8gldrvkCmmocWLY1roR7XXtO4iyYbW7xdQgxeZ8ywmslxFiht4O6H7CIw&screen=MHL&uid=294779473",
       "proxy": false
     },
     {
@@ -1440,7 +1392,7 @@
       "name": "Hưng Yên",
       "logo": "https://img-zlr1.tv360.vn/image1/2023/07/18/14/1689667110643/2aa9348c16ec_480_270.png",
       "source": "tv360",
-      "url": "https://rr1-ateme.tv360.vn/live/eds/325/CMAF_Clean_MHL_6s/325.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzMyNS9DTUFGX0NsZWFuX01ITF82cy8iLCJleHAiOjE3ODg0NjI1MjV9.EVI60ULbh8FWlwihLkdslpKfZIQytt9ISAtiWkPwWqOfXOoOpO9tVyWNBl3b7YtKU3noFKgytYDTjX9Pvdpy-A&screen=MHL&uid=294779473",
+      "url": "https://rr1-ateme.tv360.vn/live/eds/325/CMAF_Clean_MHL_6s/325.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzMyNS9DTUFGX0NsZWFuX01ITF82cy8iLCJleHAiOjE3ODg5MDcwNTl9.FNbZmjDciyvEYFOiSMWy4UEuD5YWsh7HdbEZE1E_YKR7nugJqxNmFrwamjtxdn7jQY4B_glz7NUVPb61h5uUAg&screen=MHL&uid=294779473",
       "proxy": false
     },
     {
@@ -1448,7 +1400,7 @@
       "name": "Khánh Hòa",
       "logo": "https://img-zlr1.tv360.vn/image1/2023/05/16/02/1684179436941/f2452666b507_480_270.png",
       "source": "tv360",
-      "url": "https://rr1-ateme.tv360.vn/live/eds/318/CMAF_Clean_MHL_6s/318.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzMxOC9DTUFGX0NsZWFuX01ITF82cy8iLCJleHAiOjE3ODg0NjI1Mjh9.t2ajBm0WBfcu0eOCrkJulHsynza2NmJ1m2cEIdsb0TP_C4hYVg0iUC81EoMk4hb-mr-RKWgV5w_iGUHPPmKAoA&screen=MHL&uid=294779473",
+      "url": "https://rr1-ateme.tv360.vn/live/eds/318/CMAF_Clean_MHL_6s/318.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzMxOC9DTUFGX0NsZWFuX01ITF82cy8iLCJleHAiOjE3ODg4OTQ0ODN9.0tzS_Yiyo5pAMOO42RKp_ccr8AyJ0bpkiHks6igs0hVUCUF_pNHkoaa58nVTHmhrzlDYO-8zjjjjqjnD9ERPxQ&screen=MHL&uid=294779473",
       "proxy": false
     },
     {
@@ -1456,7 +1408,7 @@
       "name": "An Giang 1",
       "logo": "https://img-zlr1.tv360.vn/image1/2025/07/01/15/1751358809467/9f6c4f3dc4d0_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/424/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI1MjgsInVyaSI6Ii9icGstdHYvNDI0L291dHB1dC9pbmRleC5tM3U4In0.gMoUTQbHGWikbcoX0lN83MaE0qxeBT3kcUDjLrHvNm4&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/424/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg4OTQ0ODMsInVyaSI6Ii9icGstdHYvNDI0L291dHB1dC9pbmRleC5tM3U4In0.d_9YNbauG1LFH1vyA89JhYBB-kaHXbOiSAzfD7gpnjg&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -1464,7 +1416,7 @@
       "name": "Lai Châu",
       "logo": "https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728293379395/ade5683c1b92_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/374/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI1MjgsInVyaSI6Ii9icGstdHYvMzc0L291dHB1dC9pbmRleC5tM3U4In0.RSyQvAgwqzi3QhT0RgJdv7yHGnxc_d4HxKIbI6U-sac&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/374/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg4OTYzMDEsInVyaSI6Ii9icGstdHYvMzc0L291dHB1dC9pbmRleC5tM3U4In0.Owf3CUHillndsbRe-p95lplZSKImd-OFdAYik7Y4FNw&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -1472,7 +1424,7 @@
       "name": "Lâm Đồng 1",
       "logo": "https://img-zlr1.tv360.vn/image1/2025/09/16/10/1757993571149/e3bbf8cbc985_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/375/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI1MzEsInVyaSI6Ii9icGstdHYvMzc1L291dHB1dC9pbmRleC5tM3U4In0.ybAVCybe58ypCz0EGxO4NawLrkQOBoeGIL9s4crFREw&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/375/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg5MDcwNjUsInVyaSI6Ii9icGstdHYvMzc1L291dHB1dC9pbmRleC5tM3U4In0.zIv8-HfqwZYYsk6Q3Ual0xo7g1pqyJdn7VU8MCY7rv8&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -1480,7 +1432,7 @@
       "name": "Lạng Sơn",
       "logo": "https://img-zlr1.tv360.vn/image1/2023/05/16/03/1684183176485/baf863bc2690_480_270.png",
       "source": "tv360",
-      "url": "https://rr1-ateme.tv360.vn/live/eds/321/CMAF_Clean_MHL_6s/321.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzMyMS9DTUFGX0NsZWFuX01ITF82cy8iLCJleHAiOjE3ODg0NjI1MzF9.vag-wqTChEyd0X5AmkXh8_Erqiz4oIk-ZeM6pQV82VsVd6jwZgOsxKXTPHtYreoWUnpTVUHzBadv6yL5PuWcaA&screen=MHL&uid=294779473",
+      "url": "https://rr1-ateme.tv360.vn/live/eds/321/CMAF_Clean_MHL_6s/321.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzMyMS9DTUFGX0NsZWFuX01ITF82cy8iLCJleHAiOjE3ODg4OTYzMDF9.kNB5OCtoEnY2GaIyxEf79nK5nDA7OxizZUrCOlhUMWQR20-omBCn1QwLcq9BV6sLI5o7xMLHTNzxHstqVakrtQ&screen=MHL&uid=294779473",
       "proxy": false
     },
     {
@@ -1488,7 +1440,7 @@
       "name": "Lào Cai",
       "logo": "https://img-zlr1.tv360.vn/image1/2025/07/01/07/1751329203146/5c287ccfa91a_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/385/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI1MzEsInVyaSI6Ii9icGstdHYvMzg1L291dHB1dC9pbmRleC5tM3U4In0.Y5nm65aBpsKavOu6Tj6QutjsebJ-gv10jC8Vw4CpGI8&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/385/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg5MDUyOTgsInVyaSI6Ii9icGstdHYvMzg1L291dHB1dC9pbmRleC5tM3U4In0.FHHsSUc_b6DXjsW_AdSLrq04c7NIHiiIB2HFSBE01XA&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -1496,7 +1448,7 @@
       "name": "Tây Ninh 1",
       "logo": "https://img-zlr1.tv360.vn/image1/2026/01/10/08/1768009863485/1206cb944f9e_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/430/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI1MzEsInVyaSI6Ii9icGstdHYvNDMwL291dHB1dC9pbmRleC5tM3U4In0.rhX1i3GLWwgPWAxEdR9yQ-_NHwOeE0AtC7dCzKBUgiI&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/430/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg4OTg5ODYsInVyaSI6Ii9icGstdHYvNDMwL291dHB1dC9pbmRleC5tM3U4In0.Ykduf6y4HGEwCGTVbiOG6e5mt9CIfN4fNgD3K0opHUM&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -1504,7 +1456,7 @@
       "name": "Nghệ An",
       "logo": "https://img-zlr1.tv360.vn/image1/2020_09_23/1600821989411/75bfb004e210_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/437/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI1MzEsInVyaSI6Ii9icGstdHYvNDM3L291dHB1dC9pbmRleC5tM3U4In0.p9Ew7Q3WL_ouZbChMqmIngDzE0x_sbL-blkJlQa7n7g&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/437/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg5MDcwNjUsInVyaSI6Ii9icGstdHYvNDM3L291dHB1dC9pbmRleC5tM3U4In0.GYH0agrVU3oUqsKOMDm_hTaOSHZ6IdNAPWkUOvM-bV0&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -1512,7 +1464,7 @@
       "name": "Ninh Bình",
       "logo": "https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728293640310/9aea44bf0f8d_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/376/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI1MzEsInVyaSI6Ii9icGstdHYvMzc2L291dHB1dC9pbmRleC5tM3U4In0.TV7cLOnd7o8ZoA0HXGeCkZjuQRSop_kKsxFtVql9REk&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/376/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg5MDcwNjgsInVyaSI6Ii9icGstdHYvMzc2L291dHB1dC9pbmRleC5tM3U4In0.UTQTzLCYGvoii1vFoAydS2Z_2w8EDHhkGFYa-O56Kss&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -1520,7 +1472,7 @@
       "name": "Khánh Hòa 1",
       "logo": "https://img-zlr1.tv360.vn/image1/2025/07/01/08/1751333362278/30e1a394f567_480_270.png",
       "source": "tv360",
-      "url": "https://rr1-ateme.tv360.vn/live/eds/319/CMAF_Clean_MHL_6s/319.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzMxOS9DTUFGX0NsZWFuX01ITF82cy8iLCJleHAiOjE3ODg0NjI1MzR9.fC_gbR4xE8WcYEL2td6DNLa8XIvH0UwVCvLTbhTZ9VpULTOU7AHWzTkbBPOHqp75HDSquMcVpGMznmbsQ0ypmA&screen=MHL&uid=294779473",
+      "url": "https://rr1-ateme.tv360.vn/live/eds/319/CMAF_Clean_MHL_6s/319.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzMxOS9DTUFGX0NsZWFuX01ITF82cy8iLCJleHAiOjE3ODg4OTM1ODZ9.3dQXwS0TyNKNud82yUEMkGeS_BwGtUM2hJYUftNrSLAd9MS5BA9RTVIxqtZ6Elfa6VoRz2OgW6KBamA2d5CEzw&screen=MHL&uid=294779473",
       "proxy": false
     },
     {
@@ -1528,7 +1480,7 @@
       "name": "Phú Thọ",
       "logo": "https://img-zlr1.tv360.vn/image1/2023/05/16/02/168417957456/7016ca1be5fa_480_270.png",
       "source": "tv360",
-      "url": "https://rr1-ateme.tv360.vn/live/eds/320/CMAF_Clean_MHL_6s/320.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzMyMC9DTUFGX0NsZWFuX01ITF82cy8iLCJleHAiOjE3ODg0NjI1MzR9.GPz_EoQ64P33zl9SmY9bbeaDlall3m10mg8rhZIb842Kz-R9mWUAPe13PIf2JjoNkBar1r9kCPa8ihVsV3Wf6A&screen=MHL&uid=294779473",
+      "url": "https://rr1-ateme.tv360.vn/live/eds/320/CMAF_Clean_MHL_6s/320.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzMyMC9DTUFGX0NsZWFuX01ITF82cy8iLCJleHAiOjE3ODg4OTQ0ODl9.ADxwRANNgk5a3yQ9GlbJdSjk9MJ2nZQSbcwuxLcL74JIcGL2JiiH2jGz5fxF2tTA-o-EXS1LipRaAwGmkm9m2A&screen=MHL&uid=294779473",
       "proxy": false
     },
     {
@@ -1536,7 +1488,7 @@
       "name": "Đà Nẵng 2",
       "logo": "https://img-zlr1.tv360.vn/image1/2025/07/01/09/175133702497/eded20e0d35c_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/377/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI1MzQsInVyaSI6Ii9icGstdHYvMzc3L291dHB1dC9pbmRleC5tM3U4In0.7rMJ85Jv-dHvJEeWYd7er4N1k70dTSab9f3HNHx2zE4&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/377/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg5MDcwNjgsInVyaSI6Ii9icGstdHYvMzc3L291dHB1dC9pbmRleC5tM3U4In0.F7oHo21ATJsSODxvHQY01c6WF0XSGUepQ0D7vO2X4EE&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -1544,7 +1496,7 @@
       "name": "Quảng Ngãi",
       "logo": "https://img-zlr1.tv360.vn/image1/2026/04/24/17/1777025132946/f2412266a876_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/366/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI1MzcsInVyaSI6Ii9icGstdHYvMzY2L291dHB1dC9pbmRleC5tM3U4In0.mugv_GjCNAoqhauN_rMtiSfLYW3D7Yh0iXrD4dV9Lro&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/366/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg5MDcwNjgsInVyaSI6Ii9icGstdHYvMzY2L291dHB1dC9pbmRleC5tM3U4In0.5N7wYoCCRoyKJ43YpCYdr3I2RbHbwelrERQqwB2SMg4&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -1552,7 +1504,7 @@
       "name": "Quảng Ninh 1",
       "logo": "https://img-zlr1.tv360.vn/image1/2020_09_23/1600823547870/8f0cdf38412a_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/389/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI1MzcsInVyaSI6Ii9icGstdHYvMzg5L291dHB1dC9pbmRleC5tM3U4In0.LQVngozCn1S8VO6XiXpfgbw1OkRIBDRJGx65yRCL_JY&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/389/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg5MDcwNjgsInVyaSI6Ii9icGstdHYvMzg5L291dHB1dC9pbmRleC5tM3U4In0.G8cbQLRPEYPoOE4lXUbUBkM8knZDX7XF2pnYSfe1zqg&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -1560,7 +1512,7 @@
       "name": "Quảng Trị",
       "logo": "https://img-zlr1.tv360.vn/image1/2025/07/01/09/1751335585476/9d5c42897302_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/260/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI1MzcsInVyaSI6Ii9icGstdHYvMjYwL291dHB1dC9pbmRleC5tM3U4In0.ubzUb78RrkoTeeLzFAfkg8YYGoMLXD3-UlEKqaNEyls&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/260/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg4OTM1ODksInVyaSI6Ii9icGstdHYvMjYwL291dHB1dC9pbmRleC5tM3U4In0.E4lcIyxH4MaffAE20b0l2zCvsiFloqsj5Jq0D7V-mZ0&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -1568,7 +1520,7 @@
       "name": "Cần Thơ 3",
       "logo": "https://img-zlr1.tv360.vn/image1/2025/11/05/16/1762336060807/7b1128d4e7c7_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/362/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI1MzcsInVyaSI6Ii9icGstdHYvMzYyL291dHB1dC9pbmRleC5tM3U4In0.W5rWz6rn_FXZLR96TVGwnQvMrmAlGibhclNhNgnTzBM&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/362/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg5MDcwNjgsInVyaSI6Ii9icGstdHYvMzYyL291dHB1dC9pbmRleC5tM3U4In0.qyTogJDhgsvd4Oi37sAsiTh3EimvSSfFdBFT1Q--RyY&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -1576,7 +1528,7 @@
       "name": "Sơn La",
       "logo": "https://img-zlr1.tv360.vn/image1/2020_09_23/1600823599924/b1d77a6c01a0_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/444/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI1MzcsInVyaSI6Ii9icGstdHYvNDQ0L291dHB1dC9pbmRleC5tM3U4In0.bI-uOc2XX7YVQ8gKBVKFrVOKJDaOcRV4ODLNmZ1AHzg&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/444/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg4OTYzMDcsInVyaSI6Ii9icGstdHYvNDQ0L291dHB1dC9pbmRleC5tM3U4In0.cr9P2kD4PvG6BvTwalULqUgGmmp0PMGInJT8YvDQje4&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -1584,7 +1536,7 @@
       "name": "Thái Nguyên",
       "logo": "https://img-zlr1.tv360.vn/image1/2025/07/01/07/1751329966912/3ddadef93c24_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/381/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI1NDAsInVyaSI6Ii9icGstdHYvMzgxL291dHB1dC9pbmRleC5tM3U4In0.fhNTjcnynN1JM-2OsVIiOOaqThAztqgQAlOXP9qAafU&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/381/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg4OTgxMTAsInVyaSI6Ii9icGstdHYvMzgxL291dHB1dC9pbmRleC5tM3U4In0.aRqwRqvCtzY67wEnepdYkiIy0NHRM7vwT5RIrnIrMfY&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -1592,7 +1544,7 @@
       "name": "Thanh Hóa",
       "logo": "https://img-zlr1.tv360.vn/image1/2020_09_23/1600821878406/58ff77e57117_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/383/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI1NDAsInVyaSI6Ii9icGstdHYvMzgzL291dHB1dC9pbmRleC5tM3U4In0.FZAOmwAAQLuYR1_YQiRWgQF68DZZ68DMxIZ9Y-VtQcI&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/383/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg5MDUzMDQsInVyaSI6Ii9icGstdHYvMzgzL291dHB1dC9pbmRleC5tM3U4In0.eqrJXZjYtyHQtqAXHkCXWKdOnV0thxC9ol1E2OEeyQ0&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -1600,7 +1552,7 @@
       "name": "Đồng Tháp 2",
       "logo": "https://img-zlr1.tv360.vn/image1/2025/09/16/10/1757993795684/45f17a4f3b90_480_270.png",
       "source": "tv360",
-      "url": "https://fo-hlc.tv360.vn/bpk-tv/363/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg0NjI1NDAsInVyaSI6Ii9icGstdHYvMzYzL291dHB1dC9pbmRleC5tM3U4In0.QR76XxjCp4hxEO7dvS16Ya_8FvUyoH0jrKMD1Nn5sLk&minrate=0&maxrate=12000000&uid=294779473",
+      "url": "https://fo-hlc.tv360.vn/bpk-tv/363/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3ODg4OTM1OTIsInVyaSI6Ii9icGstdHYvMzYzL291dHB1dC9pbmRleC5tM3U4In0.43m2uQElHLeATzOeo_NIO-pDouxWnmCQsw5eMkjUllE&minrate=0&maxrate=12000000&uid=294779473",
       "proxy": false
     },
     {
@@ -1608,7 +1560,7 @@
       "name": "Tuyên Quang",
       "logo": "https://img-zlr1.tv360.vn/image1/2023/05/10/03/1683663305895/0f3f1e5bd284_480_270.png",
       "source": "tv360",
-      "url": "https://rr1-ateme.tv360.vn/live/eds/303/CMAF_Clean_MHL_6s/303.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzMwMy9DTUFGX0NsZWFuX01ITF82cy8iLCJleHAiOjE3ODg0NjI1NDB9.CeDnO8PTLJ-MXgLtbOfo1veReqiLnPE6l-N5gC1TT9qPl_a3HpY2lCO6JJTqAluH1AK-LeacC85UXWQHxwSqQQ&screen=MHL&uid=294779473",
+      "url": "https://rr1-ateme.tv360.vn/live/eds/303/CMAF_Clean_MHL_6s/303.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzMwMy9DTUFGX0NsZWFuX01ITF82cy8iLCJleHAiOjE3ODg4OTUzODB9.KA4xS_MQ5P57QVoYXEZz7OXrUoSjHWdZOeWq4tqYRcYYIanpsZsN56VuZ0VXkRpHntgCqolDxeDo6C-AJ_5l7Q&screen=MHL&uid=294779473",
       "proxy": false
     },
     {
@@ -1616,7 +1568,7 @@
       "name": "Đồng Nai",
       "logo": "https://img-zlr1.tv360.vn/image1/2024/10/07/14/1728286716831/f297eef035cf_480_270.png",
       "source": "tv360",
-      "url": "https://rr1-ateme.tv360.vn/live/eds/286/HLS_Clean_MHL_6s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzI4Ni9ITFNfQ2xlYW5fTUhMXzZzLyIsImV4cCI6MTc4ODQ2MjU0MH0.rQKaWOXj5HMqIqiCbOiyjJVbT4sCoDp_DCW5SaGB0-UOU6JACaGRwzddfCMYyeU7vscrvbPuffzeW16UiK4ejA&screen=MHL&uid=294779473",
+      "url": "https://rr1-ateme.tv360.vn/live/eds/286/HLS_Clean_MHL_6s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzI4Ni9ITFNfQ2xlYW5fTUhMXzZzLyIsImV4cCI6MTc4ODkwNzA3MX0.cLgG-llVil4QtRcfZMkuagGQxSwVHT94PAoIq_H9h7Dhl5aEdFD--LEzTj1rrIDd3CD9U1UOrkO5p4-55M3NOg&screen=MHL&uid=294779473",
       "proxy": false
     },
     {
@@ -1624,7 +1576,7 @@
       "name": "Livestream 01",
       "logo": "https://img-zlr1.tv360.vn/image1/2026/08/28/16/1787911148338/b93bdef3858e_480_270.png",
       "source": "tv360",
-      "url": "https://livestream-evg8.tv360.vn/ceP4GhAoosfKs8ranTKvSQ/1788526917/manifest/livestream-06/master.m3u8?manifestfilter=video_bitrate:1-12767168&uid=294779473",
+      "url": "https://livestream-evg8.tv360.vn/JTY5JWjRRyR2jC7umSRpFw/1788959292/manifest/livestream-04/master.m3u8?manifestfilter=video_bitrate:1-12767168&uid=294779473",
       "proxy": false
     }
   ]
